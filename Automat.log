@@ -1,0 +1,1744 @@
+21-03-2019 18:33:06 INFO  AtVeryNew:30 - $$$$$$$$$Started processing of accountList.xlsx$$$$$$$$$
+21-03-2019 18:33:07 DEBUG CommonUtils:72 - Excel sheet Loaded
+21-03-2019 18:33:07 DEBUG CommonUtils:505 - Host data properties loaded successfully
+21-03-2019 18:33:07 DEBUG CommonUtils:460 - TESTCASE header name written to excel successfully
+21-03-2019 18:33:07 DEBUG CommonUtils:463 - Status code header written to excel successfully
+21-03-2019 18:33:07 DEBUG CommonUtils:467 - Request json header written to excel successfully
+21-03-2019 18:33:07 DEBUG CommonUtils:471 - Response json header written to excel successfully
+21-03-2019 18:33:07 DEBUG CommonUtils:333 - Analysis Headers written to excel successfully
+21-03-2019 18:33:07 DEBUG CommonUtils:477 - Loading test data
+21-03-2019 18:33:07 DEBUG CommonUtils:494 - Test data loaded successfully
+21-03-2019 18:33:07 DEBUG BuildRestRequestKonyImpl:34 - ++++++++++Started Testcase : accountList++++++++++
+21-03-2019 18:33:08 INFO  RequestBuilderKonyImpl:82 - Building SOAP request
+21-03-2019 18:33:08 DEBUG RequestStringBuilderImpl:90 - Request SOAP Message:
+21-03-2019 18:33:08 DEBUG CommonUtils:366 - Request json written to excel successfully
+21-03-2019 18:33:08 DEBUG BuildRestRequestKonyImpl:45 - Executing test case : accountList
+21-03-2019 18:33:10 DEBUG CommonUtils:357 - TESTCASE name written to excel successfully
+21-03-2019 18:33:10 DEBUG CommonUtils:361 - Status code written to excel successfully
+21-03-2019 18:33:10 DEBUG BuildRestRequestKonyImpl:52 - Successfully fired request
+21-03-2019 18:33:10 DEBUG CommonUtils:371 - Response json written to excel successfully
+21-03-2019 18:33:10 DEBUG AssertionBuilderImpl:24 - Starting assertions
+21-03-2019 18:33:10 INFO  AssertionBuilderImpl:51 - 2 assertions found
+21-03-2019 18:33:10 DEBUG AssertionBuilderImpl:35 - Assertions completed
+21-03-2019 18:33:10 DEBUG BuildRestRequestKonyImpl:63 - ++++++++++Testcase accountList completed Successfully++++++++++
+21-03-2019 18:33:10 DEBUG CommonUtils:477 - Loading test data
+21-03-2019 18:33:10 DEBUG CommonUtils:494 - Test data loaded successfully
+21-03-2019 18:33:10 DEBUG BuildRestRequestKonyImpl:34 - ++++++++++Started Testcase : ++++++++++
+21-03-2019 18:33:10 DEBUG BuildRestRequestKonyImpl:42 - ++++++++++Testcases completed with errors.++++++++++
+21-03-2019 18:33:10 INFO  AtVeryNew:39 - Execution completed for the file  accountList.xlsx
+21-03-2019 18:33:10 INFO  CommonUtils:416 - Started rewriting of file accountList.xlsx
+21-03-2019 18:33:10 INFO  CommonUtils:420 - Finished rewriting of file accountList.xlsx
+21-03-2019 18:33:10 INFO  AtVeryNew:30 - $$$$$$$$$Started processing of accountSummary.xlsx$$$$$$$$$
+21-03-2019 18:33:10 DEBUG CommonUtils:72 - Excel sheet Loaded
+21-03-2019 18:33:10 DEBUG CommonUtils:505 - Host data properties loaded successfully
+21-03-2019 18:33:10 DEBUG CommonUtils:460 - TESTCASE header name written to excel successfully
+21-03-2019 18:33:10 DEBUG CommonUtils:463 - Status code header written to excel successfully
+21-03-2019 18:33:10 DEBUG CommonUtils:467 - Request json header written to excel successfully
+21-03-2019 18:33:10 DEBUG CommonUtils:471 - Response json header written to excel successfully
+21-03-2019 18:33:10 DEBUG CommonUtils:333 - Analysis Headers written to excel successfully
+21-03-2019 18:33:10 DEBUG CommonUtils:477 - Loading test data
+21-03-2019 18:33:10 DEBUG CommonUtils:494 - Test data loaded successfully
+21-03-2019 18:33:10 DEBUG BuildRestRequestKonyImpl:34 - ++++++++++Started Testcase : accountSummary++++++++++
+21-03-2019 18:33:10 INFO  RequestBuilderKonyImpl:82 - Building SOAP request
+21-03-2019 18:33:10 DEBUG RequestStringBuilderImpl:90 - Request SOAP Message:
+21-03-2019 18:33:10 DEBUG CommonUtils:366 - Request json written to excel successfully
+21-03-2019 18:33:10 DEBUG BuildRestRequestKonyImpl:45 - Executing test case : accountSummary
+21-03-2019 18:33:12 DEBUG CommonUtils:357 - TESTCASE name written to excel successfully
+21-03-2019 18:33:12 DEBUG CommonUtils:361 - Status code written to excel successfully
+21-03-2019 18:33:12 DEBUG BuildRestRequestKonyImpl:52 - Successfully fired request
+21-03-2019 18:33:12 DEBUG CommonUtils:371 - Response json written to excel successfully
+21-03-2019 18:33:12 DEBUG AssertionBuilderImpl:24 - Starting assertions
+21-03-2019 18:33:12 INFO  AssertionBuilderImpl:51 - 2 assertions found
+21-03-2019 18:33:12 DEBUG AssertionBuilderImpl:35 - Assertions completed
+21-03-2019 18:33:12 DEBUG BuildRestRequestKonyImpl:63 - ++++++++++Testcase accountSummary completed Successfully++++++++++
+21-03-2019 18:33:12 DEBUG CommonUtils:477 - Loading test data
+21-03-2019 18:33:12 DEBUG CommonUtils:494 - Test data loaded successfully
+21-03-2019 18:33:12 DEBUG BuildRestRequestKonyImpl:34 - ++++++++++Started Testcase : ++++++++++
+21-03-2019 18:33:12 DEBUG BuildRestRequestKonyImpl:42 - ++++++++++Testcases completed with errors.++++++++++
+21-03-2019 18:33:12 INFO  AtVeryNew:39 - Execution completed for the file  accountSummary.xlsx
+21-03-2019 18:33:12 INFO  CommonUtils:416 - Started rewriting of file accountSummary.xlsx
+21-03-2019 18:33:12 INFO  CommonUtils:420 - Finished rewriting of file accountSummary.xlsx
+21-03-2019 18:33:12 INFO  AtVeryNew:30 - $$$$$$$$$Started processing of amountToBeLeftInquiry.xlsx$$$$$$$$$
+21-03-2019 18:33:12 DEBUG CommonUtils:72 - Excel sheet Loaded
+21-03-2019 18:33:12 DEBUG CommonUtils:505 - Host data properties loaded successfully
+21-03-2019 18:33:12 DEBUG CommonUtils:460 - TESTCASE header name written to excel successfully
+21-03-2019 18:33:12 DEBUG CommonUtils:463 - Status code header written to excel successfully
+21-03-2019 18:33:12 DEBUG CommonUtils:467 - Request json header written to excel successfully
+21-03-2019 18:33:12 DEBUG CommonUtils:471 - Response json header written to excel successfully
+21-03-2019 18:33:12 DEBUG CommonUtils:333 - Analysis Headers written to excel successfully
+21-03-2019 18:33:12 DEBUG CommonUtils:477 - Loading test data
+21-03-2019 18:33:12 DEBUG CommonUtils:494 - Test data loaded successfully
+21-03-2019 18:33:12 DEBUG BuildRestRequestKonyImpl:34 - ++++++++++Started Testcase : amountToBeLeftInquiry++++++++++
+21-03-2019 18:33:12 INFO  RequestBuilderKonyImpl:82 - Building SOAP request
+21-03-2019 18:33:12 DEBUG RequestStringBuilderImpl:90 - Request SOAP Message:
+21-03-2019 18:33:12 DEBUG CommonUtils:366 - Request json written to excel successfully
+21-03-2019 18:33:12 DEBUG BuildRestRequestKonyImpl:45 - Executing test case : amountToBeLeftInquiry
+21-03-2019 18:33:13 DEBUG CommonUtils:357 - TESTCASE name written to excel successfully
+21-03-2019 18:33:13 DEBUG CommonUtils:361 - Status code written to excel successfully
+21-03-2019 18:33:13 DEBUG BuildRestRequestKonyImpl:52 - Successfully fired request
+21-03-2019 18:33:13 DEBUG CommonUtils:371 - Response json written to excel successfully
+21-03-2019 18:33:13 DEBUG AssertionBuilderImpl:24 - Starting assertions
+21-03-2019 18:33:13 INFO  AssertionBuilderImpl:51 - 2 assertions found
+21-03-2019 18:33:13 DEBUG AssertionBuilderImpl:35 - Assertions completed
+21-03-2019 18:33:13 DEBUG BuildRestRequestKonyImpl:63 - ++++++++++Testcase amountToBeLeftInquiry completed Successfully++++++++++
+21-03-2019 18:33:13 DEBUG CommonUtils:477 - Loading test data
+21-03-2019 18:33:13 DEBUG CommonUtils:494 - Test data loaded successfully
+21-03-2019 18:33:13 DEBUG BuildRestRequestKonyImpl:34 - ++++++++++Started Testcase : ++++++++++
+21-03-2019 18:33:13 DEBUG BuildRestRequestKonyImpl:42 - ++++++++++Testcases completed with errors.++++++++++
+21-03-2019 18:33:13 INFO  AtVeryNew:39 - Execution completed for the file  amountToBeLeftInquiry.xlsx
+21-03-2019 18:33:13 INFO  CommonUtils:416 - Started rewriting of file amountToBeLeftInquiry.xlsx
+21-03-2019 18:33:13 INFO  CommonUtils:420 - Finished rewriting of file amountToBeLeftInquiry.xlsx
+21-03-2019 18:33:13 INFO  AtVeryNew:30 - $$$$$$$$$Started processing of amountToBeLeftUpdate.xlsx$$$$$$$$$
+21-03-2019 18:33:13 DEBUG CommonUtils:72 - Excel sheet Loaded
+21-03-2019 18:33:13 DEBUG CommonUtils:505 - Host data properties loaded successfully
+21-03-2019 18:33:13 DEBUG CommonUtils:460 - TESTCASE header name written to excel successfully
+21-03-2019 18:33:13 DEBUG CommonUtils:463 - Status code header written to excel successfully
+21-03-2019 18:33:13 DEBUG CommonUtils:467 - Request json header written to excel successfully
+21-03-2019 18:33:13 DEBUG CommonUtils:471 - Response json header written to excel successfully
+21-03-2019 18:33:13 DEBUG CommonUtils:333 - Analysis Headers written to excel successfully
+21-03-2019 18:33:13 DEBUG CommonUtils:477 - Loading test data
+21-03-2019 18:33:13 DEBUG CommonUtils:494 - Test data loaded successfully
+21-03-2019 18:33:13 DEBUG BuildRestRequestKonyImpl:34 - ++++++++++Started Testcase : amountToBeLeftUpdate++++++++++
+21-03-2019 18:33:13 INFO  RequestBuilderKonyImpl:82 - Building SOAP request
+21-03-2019 18:33:13 DEBUG RequestStringBuilderImpl:90 - Request SOAP Message:
+21-03-2019 18:33:13 DEBUG CommonUtils:366 - Request json written to excel successfully
+21-03-2019 18:33:13 DEBUG BuildRestRequestKonyImpl:45 - Executing test case : amountToBeLeftUpdate
+21-03-2019 18:33:15 DEBUG CommonUtils:357 - TESTCASE name written to excel successfully
+21-03-2019 18:33:15 DEBUG CommonUtils:361 - Status code written to excel successfully
+21-03-2019 18:33:15 DEBUG BuildRestRequestKonyImpl:52 - Successfully fired request
+21-03-2019 18:33:15 DEBUG CommonUtils:371 - Response json written to excel successfully
+21-03-2019 18:33:15 DEBUG AssertionBuilderImpl:24 - Starting assertions
+21-03-2019 18:33:15 INFO  AssertionBuilderImpl:51 - 2 assertions found
+21-03-2019 18:33:15 DEBUG AssertionBuilderImpl:35 - Assertions completed
+21-03-2019 18:33:15 DEBUG BuildRestRequestKonyImpl:63 - ++++++++++Testcase amountToBeLeftUpdate completed Successfully++++++++++
+21-03-2019 18:33:15 DEBUG CommonUtils:477 - Loading test data
+21-03-2019 18:33:15 DEBUG CommonUtils:494 - Test data loaded successfully
+21-03-2019 18:33:15 DEBUG BuildRestRequestKonyImpl:34 - ++++++++++Started Testcase : ++++++++++
+21-03-2019 18:33:15 DEBUG BuildRestRequestKonyImpl:42 - ++++++++++Testcases completed with errors.++++++++++
+21-03-2019 18:33:15 INFO  AtVeryNew:39 - Execution completed for the file  amountToBeLeftUpdate.xlsx
+21-03-2019 18:33:15 INFO  CommonUtils:416 - Started rewriting of file amountToBeLeftUpdate.xlsx
+21-03-2019 18:33:15 INFO  CommonUtils:420 - Finished rewriting of file amountToBeLeftUpdate.xlsx
+21-03-2019 18:33:15 INFO  AtVeryNew:30 - $$$$$$$$$Started processing of assignCard.xlsx$$$$$$$$$
+21-03-2019 18:33:15 DEBUG CommonUtils:72 - Excel sheet Loaded
+21-03-2019 18:33:15 DEBUG CommonUtils:505 - Host data properties loaded successfully
+21-03-2019 18:33:15 DEBUG CommonUtils:460 - TESTCASE header name written to excel successfully
+21-03-2019 18:33:15 DEBUG CommonUtils:463 - Status code header written to excel successfully
+21-03-2019 18:33:15 DEBUG CommonUtils:467 - Request json header written to excel successfully
+21-03-2019 18:33:15 DEBUG CommonUtils:471 - Response json header written to excel successfully
+21-03-2019 18:33:15 DEBUG CommonUtils:333 - Analysis Headers written to excel successfully
+21-03-2019 18:33:15 DEBUG CommonUtils:477 - Loading test data
+21-03-2019 18:33:15 DEBUG CommonUtils:494 - Test data loaded successfully
+21-03-2019 18:33:15 DEBUG BuildRestRequestKonyImpl:34 - ++++++++++Started Testcase : assignCard++++++++++
+21-03-2019 18:33:15 INFO  RequestBuilderKonyImpl:82 - Building SOAP request
+21-03-2019 18:33:15 DEBUG RequestStringBuilderImpl:90 - Request SOAP Message:
+21-03-2019 18:33:15 DEBUG CommonUtils:366 - Request json written to excel successfully
+21-03-2019 18:33:15 DEBUG BuildRestRequestKonyImpl:45 - Executing test case : assignCard
+21-03-2019 18:33:16 DEBUG CommonUtils:357 - TESTCASE name written to excel successfully
+21-03-2019 18:33:16 DEBUG CommonUtils:361 - Status code written to excel successfully
+21-03-2019 18:33:16 DEBUG BuildRestRequestKonyImpl:52 - Successfully fired request
+21-03-2019 18:33:16 DEBUG CommonUtils:371 - Response json written to excel successfully
+21-03-2019 18:33:16 DEBUG AssertionBuilderImpl:24 - Starting assertions
+21-03-2019 18:33:16 INFO  AssertionBuilderImpl:51 - 2 assertions found
+21-03-2019 18:33:16 DEBUG AssertionBuilderImpl:35 - Assertions completed
+21-03-2019 18:33:16 DEBUG BuildRestRequestKonyImpl:63 - ++++++++++Testcase assignCard completed Successfully++++++++++
+21-03-2019 18:33:16 DEBUG CommonUtils:477 - Loading test data
+21-03-2019 18:33:16 DEBUG CommonUtils:494 - Test data loaded successfully
+21-03-2019 18:33:16 DEBUG BuildRestRequestKonyImpl:34 - ++++++++++Started Testcase : ++++++++++
+21-03-2019 18:33:16 DEBUG BuildRestRequestKonyImpl:42 - ++++++++++Testcases completed with errors.++++++++++
+21-03-2019 18:33:16 INFO  AtVeryNew:39 - Execution completed for the file  assignCard.xlsx
+21-03-2019 18:33:16 INFO  CommonUtils:416 - Started rewriting of file assignCard.xlsx
+21-03-2019 18:33:16 INFO  CommonUtils:420 - Finished rewriting of file assignCard.xlsx
+21-03-2019 18:33:16 INFO  AtVeryNew:30 - $$$$$$$$$Started processing of bulkCardActivation.xlsx$$$$$$$$$
+21-03-2019 18:33:16 DEBUG CommonUtils:72 - Excel sheet Loaded
+21-03-2019 18:33:16 DEBUG CommonUtils:505 - Host data properties loaded successfully
+21-03-2019 18:33:16 DEBUG CommonUtils:460 - TESTCASE header name written to excel successfully
+21-03-2019 18:33:16 DEBUG CommonUtils:463 - Status code header written to excel successfully
+21-03-2019 18:33:16 DEBUG CommonUtils:467 - Request json header written to excel successfully
+21-03-2019 18:33:16 DEBUG CommonUtils:471 - Response json header written to excel successfully
+21-03-2019 18:33:16 DEBUG CommonUtils:333 - Analysis Headers written to excel successfully
+21-03-2019 18:33:16 DEBUG CommonUtils:477 - Loading test data
+21-03-2019 18:33:16 DEBUG CommonUtils:494 - Test data loaded successfully
+21-03-2019 18:33:16 DEBUG BuildRestRequestKonyImpl:34 - ++++++++++Started Testcase : bulkCardActivation++++++++++
+21-03-2019 18:33:16 INFO  RequestBuilderKonyImpl:82 - Building SOAP request
+21-03-2019 18:33:16 DEBUG RequestStringBuilderImpl:90 - Request SOAP Message:
+21-03-2019 18:33:16 DEBUG CommonUtils:366 - Request json written to excel successfully
+21-03-2019 18:33:16 DEBUG BuildRestRequestKonyImpl:45 - Executing test case : bulkCardActivation
+21-03-2019 18:33:18 DEBUG CommonUtils:357 - TESTCASE name written to excel successfully
+21-03-2019 18:33:18 DEBUG CommonUtils:361 - Status code written to excel successfully
+21-03-2019 18:33:18 DEBUG BuildRestRequestKonyImpl:52 - Successfully fired request
+21-03-2019 18:33:18 DEBUG CommonUtils:371 - Response json written to excel successfully
+21-03-2019 18:33:18 DEBUG AssertionBuilderImpl:24 - Starting assertions
+21-03-2019 18:33:18 INFO  AssertionBuilderImpl:51 - 2 assertions found
+21-03-2019 18:33:18 DEBUG AssertionBuilderImpl:35 - Assertions completed
+21-03-2019 18:33:18 DEBUG BuildRestRequestKonyImpl:63 - ++++++++++Testcase bulkCardActivation completed Successfully++++++++++
+21-03-2019 18:33:18 DEBUG CommonUtils:477 - Loading test data
+21-03-2019 18:33:18 DEBUG CommonUtils:494 - Test data loaded successfully
+21-03-2019 18:33:18 DEBUG BuildRestRequestKonyImpl:34 - ++++++++++Started Testcase : ++++++++++
+21-03-2019 18:33:18 DEBUG BuildRestRequestKonyImpl:42 - ++++++++++Testcases completed with errors.++++++++++
+21-03-2019 18:33:18 INFO  AtVeryNew:39 - Execution completed for the file  bulkCardActivation.xlsx
+21-03-2019 18:33:18 INFO  CommonUtils:416 - Started rewriting of file bulkCardActivation.xlsx
+21-03-2019 18:33:18 INFO  CommonUtils:420 - Finished rewriting of file bulkCardActivation.xlsx
+21-03-2019 18:33:18 INFO  AtVeryNew:30 - $$$$$$$$$Started processing of bulkCardOrder.xlsx$$$$$$$$$
+21-03-2019 18:33:18 DEBUG CommonUtils:72 - Excel sheet Loaded
+21-03-2019 18:33:18 DEBUG CommonUtils:505 - Host data properties loaded successfully
+21-03-2019 18:33:18 DEBUG CommonUtils:460 - TESTCASE header name written to excel successfully
+21-03-2019 18:33:18 DEBUG CommonUtils:463 - Status code header written to excel successfully
+21-03-2019 18:33:18 DEBUG CommonUtils:467 - Request json header written to excel successfully
+21-03-2019 18:33:18 DEBUG CommonUtils:471 - Response json header written to excel successfully
+21-03-2019 18:33:18 DEBUG CommonUtils:333 - Analysis Headers written to excel successfully
+21-03-2019 18:33:18 DEBUG CommonUtils:477 - Loading test data
+21-03-2019 18:33:18 DEBUG CommonUtils:494 - Test data loaded successfully
+21-03-2019 18:33:18 DEBUG BuildRestRequestKonyImpl:34 - ++++++++++Started Testcase : bulkCardOrder++++++++++
+21-03-2019 18:33:18 INFO  RequestBuilderKonyImpl:82 - Building SOAP request
+21-03-2019 18:33:18 DEBUG RequestStringBuilderImpl:90 - Request SOAP Message:
+21-03-2019 18:33:18 DEBUG CommonUtils:366 - Request json written to excel successfully
+21-03-2019 18:33:18 DEBUG BuildRestRequestKonyImpl:45 - Executing test case : bulkCardOrder
+21-03-2019 18:33:19 DEBUG CommonUtils:357 - TESTCASE name written to excel successfully
+21-03-2019 18:33:19 DEBUG CommonUtils:361 - Status code written to excel successfully
+21-03-2019 18:33:19 DEBUG BuildRestRequestKonyImpl:52 - Successfully fired request
+21-03-2019 18:33:19 DEBUG CommonUtils:371 - Response json written to excel successfully
+21-03-2019 18:33:19 DEBUG AssertionBuilderImpl:24 - Starting assertions
+21-03-2019 18:33:19 INFO  AssertionBuilderImpl:51 - 2 assertions found
+21-03-2019 18:33:19 DEBUG AssertionBuilderImpl:35 - Assertions completed
+21-03-2019 18:33:19 DEBUG BuildRestRequestKonyImpl:63 - ++++++++++Testcase bulkCardOrder completed Successfully++++++++++
+21-03-2019 18:33:19 DEBUG CommonUtils:477 - Loading test data
+21-03-2019 18:33:19 DEBUG CommonUtils:494 - Test data loaded successfully
+21-03-2019 18:33:19 DEBUG BuildRestRequestKonyImpl:34 - ++++++++++Started Testcase : ++++++++++
+21-03-2019 18:33:19 DEBUG BuildRestRequestKonyImpl:42 - ++++++++++Testcases completed with errors.++++++++++
+21-03-2019 18:33:19 INFO  AtVeryNew:39 - Execution completed for the file  bulkCardOrder.xlsx
+21-03-2019 18:33:19 INFO  CommonUtils:416 - Started rewriting of file bulkCardOrder.xlsx
+21-03-2019 18:33:19 INFO  CommonUtils:420 - Finished rewriting of file bulkCardOrder.xlsx
+21-03-2019 18:33:19 INFO  AtVeryNew:30 - $$$$$$$$$Started processing of bulkLoad.xlsx$$$$$$$$$
+21-03-2019 18:33:19 DEBUG CommonUtils:72 - Excel sheet Loaded
+21-03-2019 18:33:19 DEBUG CommonUtils:505 - Host data properties loaded successfully
+21-03-2019 18:33:19 DEBUG CommonUtils:460 - TESTCASE header name written to excel successfully
+21-03-2019 18:33:19 DEBUG CommonUtils:463 - Status code header written to excel successfully
+21-03-2019 18:33:19 DEBUG CommonUtils:467 - Request json header written to excel successfully
+21-03-2019 18:33:19 DEBUG CommonUtils:471 - Response json header written to excel successfully
+21-03-2019 18:33:19 DEBUG CommonUtils:333 - Analysis Headers written to excel successfully
+21-03-2019 18:33:19 DEBUG CommonUtils:477 - Loading test data
+21-03-2019 18:33:19 DEBUG CommonUtils:494 - Test data loaded successfully
+21-03-2019 18:33:19 DEBUG BuildRestRequestKonyImpl:34 - ++++++++++Started Testcase : bulkLoad++++++++++
+21-03-2019 18:33:19 INFO  RequestBuilderKonyImpl:82 - Building SOAP request
+21-03-2019 18:33:19 DEBUG RequestStringBuilderImpl:90 - Request SOAP Message:
+21-03-2019 18:33:19 DEBUG CommonUtils:366 - Request json written to excel successfully
+21-03-2019 18:33:19 DEBUG BuildRestRequestKonyImpl:45 - Executing test case : bulkLoad
+21-03-2019 18:33:20 DEBUG CommonUtils:357 - TESTCASE name written to excel successfully
+21-03-2019 18:33:20 DEBUG CommonUtils:361 - Status code written to excel successfully
+21-03-2019 18:33:20 DEBUG BuildRestRequestKonyImpl:52 - Successfully fired request
+21-03-2019 18:33:20 DEBUG CommonUtils:371 - Response json written to excel successfully
+21-03-2019 18:33:20 DEBUG AssertionBuilderImpl:24 - Starting assertions
+21-03-2019 18:33:20 INFO  AssertionBuilderImpl:51 - 2 assertions found
+21-03-2019 18:33:20 DEBUG AssertionBuilderImpl:35 - Assertions completed
+21-03-2019 18:33:20 DEBUG BuildRestRequestKonyImpl:63 - ++++++++++Testcase bulkLoad completed Successfully++++++++++
+21-03-2019 18:33:20 DEBUG CommonUtils:477 - Loading test data
+21-03-2019 18:33:20 DEBUG CommonUtils:494 - Test data loaded successfully
+21-03-2019 18:33:20 DEBUG BuildRestRequestKonyImpl:34 - ++++++++++Started Testcase : ++++++++++
+21-03-2019 18:33:20 DEBUG BuildRestRequestKonyImpl:42 - ++++++++++Testcases completed with errors.++++++++++
+21-03-2019 18:33:20 INFO  AtVeryNew:39 - Execution completed for the file  bulkLoad.xlsx
+21-03-2019 18:33:20 INFO  CommonUtils:416 - Started rewriting of file bulkLoad.xlsx
+21-03-2019 18:33:20 INFO  CommonUtils:420 - Finished rewriting of file bulkLoad.xlsx
+21-03-2019 18:33:20 INFO  AtVeryNew:30 - $$$$$$$$$Started processing of cardholderCardList.xlsx$$$$$$$$$
+21-03-2019 18:33:20 DEBUG CommonUtils:72 - Excel sheet Loaded
+21-03-2019 18:33:20 DEBUG CommonUtils:505 - Host data properties loaded successfully
+21-03-2019 18:33:20 DEBUG CommonUtils:460 - TESTCASE header name written to excel successfully
+21-03-2019 18:33:20 DEBUG CommonUtils:463 - Status code header written to excel successfully
+21-03-2019 18:33:20 DEBUG CommonUtils:467 - Request json header written to excel successfully
+21-03-2019 18:33:20 DEBUG CommonUtils:471 - Response json header written to excel successfully
+21-03-2019 18:33:20 DEBUG CommonUtils:333 - Analysis Headers written to excel successfully
+21-03-2019 18:33:20 DEBUG CommonUtils:477 - Loading test data
+21-03-2019 18:33:20 DEBUG CommonUtils:494 - Test data loaded successfully
+21-03-2019 18:33:20 DEBUG BuildRestRequestKonyImpl:34 - ++++++++++Started Testcase : cardholderCardList++++++++++
+21-03-2019 18:33:20 INFO  RequestBuilderKonyImpl:82 - Building SOAP request
+21-03-2019 18:33:20 DEBUG RequestStringBuilderImpl:90 - Request SOAP Message:
+21-03-2019 18:33:20 DEBUG CommonUtils:366 - Request json written to excel successfully
+21-03-2019 18:33:20 DEBUG BuildRestRequestKonyImpl:45 - Executing test case : cardholderCardList
+21-03-2019 18:33:21 DEBUG CommonUtils:357 - TESTCASE name written to excel successfully
+21-03-2019 18:33:21 DEBUG CommonUtils:361 - Status code written to excel successfully
+21-03-2019 18:33:21 DEBUG BuildRestRequestKonyImpl:52 - Successfully fired request
+21-03-2019 18:33:21 DEBUG CommonUtils:371 - Response json written to excel successfully
+21-03-2019 18:33:21 DEBUG AssertionBuilderImpl:24 - Starting assertions
+21-03-2019 18:33:21 INFO  AssertionBuilderImpl:51 - 2 assertions found
+21-03-2019 18:33:21 DEBUG AssertionBuilderImpl:35 - Assertions completed
+21-03-2019 18:33:21 DEBUG BuildRestRequestKonyImpl:63 - ++++++++++Testcase cardholderCardList completed Successfully++++++++++
+21-03-2019 18:33:21 DEBUG CommonUtils:477 - Loading test data
+21-03-2019 18:33:21 DEBUG CommonUtils:494 - Test data loaded successfully
+21-03-2019 18:33:21 DEBUG BuildRestRequestKonyImpl:34 - ++++++++++Started Testcase : ++++++++++
+21-03-2019 18:33:21 DEBUG BuildRestRequestKonyImpl:42 - ++++++++++Testcases completed with errors.++++++++++
+21-03-2019 18:33:21 INFO  AtVeryNew:39 - Execution completed for the file  cardholderCardList.xlsx
+21-03-2019 18:33:21 INFO  CommonUtils:416 - Started rewriting of file cardholderCardList.xlsx
+21-03-2019 18:33:21 INFO  CommonUtils:420 - Finished rewriting of file cardholderCardList.xlsx
+21-03-2019 18:33:21 INFO  AtVeryNew:30 - $$$$$$$$$Started processing of cardholderInquiry.xlsx$$$$$$$$$
+21-03-2019 18:33:21 DEBUG CommonUtils:72 - Excel sheet Loaded
+21-03-2019 18:33:21 DEBUG CommonUtils:505 - Host data properties loaded successfully
+21-03-2019 18:33:21 DEBUG CommonUtils:460 - TESTCASE header name written to excel successfully
+21-03-2019 18:33:21 DEBUG CommonUtils:463 - Status code header written to excel successfully
+21-03-2019 18:33:21 DEBUG CommonUtils:467 - Request json header written to excel successfully
+21-03-2019 18:33:21 DEBUG CommonUtils:471 - Response json header written to excel successfully
+21-03-2019 18:33:21 DEBUG CommonUtils:333 - Analysis Headers written to excel successfully
+21-03-2019 18:33:21 DEBUG CommonUtils:477 - Loading test data
+21-03-2019 18:33:21 DEBUG CommonUtils:494 - Test data loaded successfully
+21-03-2019 18:33:21 DEBUG BuildRestRequestKonyImpl:34 - ++++++++++Started Testcase : cardholderInquiry++++++++++
+21-03-2019 18:33:21 INFO  RequestBuilderKonyImpl:82 - Building SOAP request
+21-03-2019 18:33:21 DEBUG RequestStringBuilderImpl:90 - Request SOAP Message:
+21-03-2019 18:33:21 DEBUG CommonUtils:366 - Request json written to excel successfully
+21-03-2019 18:33:21 DEBUG BuildRestRequestKonyImpl:45 - Executing test case : cardholderInquiry
+21-03-2019 18:33:22 DEBUG CommonUtils:357 - TESTCASE name written to excel successfully
+21-03-2019 18:33:22 DEBUG CommonUtils:361 - Status code written to excel successfully
+21-03-2019 18:33:22 DEBUG BuildRestRequestKonyImpl:52 - Successfully fired request
+21-03-2019 18:33:22 DEBUG CommonUtils:371 - Response json written to excel successfully
+21-03-2019 18:33:22 DEBUG AssertionBuilderImpl:24 - Starting assertions
+21-03-2019 18:33:22 INFO  AssertionBuilderImpl:51 - 2 assertions found
+21-03-2019 18:33:22 DEBUG AssertionBuilderImpl:35 - Assertions completed
+21-03-2019 18:33:22 DEBUG BuildRestRequestKonyImpl:63 - ++++++++++Testcase cardholderInquiry completed Successfully++++++++++
+21-03-2019 18:33:22 DEBUG CommonUtils:477 - Loading test data
+21-03-2019 18:33:22 DEBUG CommonUtils:494 - Test data loaded successfully
+21-03-2019 18:33:22 DEBUG BuildRestRequestKonyImpl:34 - ++++++++++Started Testcase : ++++++++++
+21-03-2019 18:33:22 DEBUG BuildRestRequestKonyImpl:42 - ++++++++++Testcases completed with errors.++++++++++
+21-03-2019 18:33:22 INFO  AtVeryNew:39 - Execution completed for the file  cardholderInquiry.xlsx
+21-03-2019 18:33:22 INFO  CommonUtils:416 - Started rewriting of file cardholderInquiry.xlsx
+21-03-2019 18:33:23 INFO  CommonUtils:420 - Finished rewriting of file cardholderInquiry.xlsx
+21-03-2019 18:33:23 INFO  AtVeryNew:30 - $$$$$$$$$Started processing of cardholderList.xlsx$$$$$$$$$
+21-03-2019 18:33:23 DEBUG CommonUtils:72 - Excel sheet Loaded
+21-03-2019 18:33:23 DEBUG CommonUtils:505 - Host data properties loaded successfully
+21-03-2019 18:33:23 DEBUG CommonUtils:460 - TESTCASE header name written to excel successfully
+21-03-2019 18:33:23 DEBUG CommonUtils:463 - Status code header written to excel successfully
+21-03-2019 18:33:23 DEBUG CommonUtils:467 - Request json header written to excel successfully
+21-03-2019 18:33:23 DEBUG CommonUtils:471 - Response json header written to excel successfully
+21-03-2019 18:33:23 DEBUG CommonUtils:333 - Analysis Headers written to excel successfully
+21-03-2019 18:33:23 DEBUG CommonUtils:477 - Loading test data
+21-03-2019 18:33:23 DEBUG CommonUtils:494 - Test data loaded successfully
+21-03-2019 18:33:23 DEBUG BuildRestRequestKonyImpl:34 - ++++++++++Started Testcase : cardholderList++++++++++
+21-03-2019 18:33:23 INFO  RequestBuilderKonyImpl:82 - Building SOAP request
+21-03-2019 18:33:23 DEBUG RequestStringBuilderImpl:90 - Request SOAP Message:
+21-03-2019 18:33:23 DEBUG CommonUtils:366 - Request json written to excel successfully
+21-03-2019 18:33:23 DEBUG BuildRestRequestKonyImpl:45 - Executing test case : cardholderList
+21-03-2019 18:33:24 DEBUG CommonUtils:357 - TESTCASE name written to excel successfully
+21-03-2019 18:33:24 DEBUG CommonUtils:361 - Status code written to excel successfully
+21-03-2019 18:33:24 DEBUG BuildRestRequestKonyImpl:52 - Successfully fired request
+21-03-2019 18:33:24 DEBUG CommonUtils:371 - Response json written to excel successfully
+21-03-2019 18:33:24 DEBUG AssertionBuilderImpl:24 - Starting assertions
+21-03-2019 18:33:24 INFO  AssertionBuilderImpl:51 - 2 assertions found
+21-03-2019 18:33:24 DEBUG AssertionBuilderImpl:35 - Assertions completed
+21-03-2019 18:33:24 DEBUG BuildRestRequestKonyImpl:63 - ++++++++++Testcase cardholderList completed Successfully++++++++++
+21-03-2019 18:33:24 DEBUG CommonUtils:477 - Loading test data
+21-03-2019 18:33:24 DEBUG CommonUtils:494 - Test data loaded successfully
+21-03-2019 18:33:24 DEBUG BuildRestRequestKonyImpl:34 - ++++++++++Started Testcase : ++++++++++
+21-03-2019 18:33:24 DEBUG BuildRestRequestKonyImpl:42 - ++++++++++Testcases completed with errors.++++++++++
+21-03-2019 18:33:24 INFO  AtVeryNew:39 - Execution completed for the file  cardholderList.xlsx
+21-03-2019 18:33:24 INFO  CommonUtils:416 - Started rewriting of file cardholderList.xlsx
+21-03-2019 18:33:24 INFO  CommonUtils:420 - Finished rewriting of file cardholderList.xlsx
+21-03-2019 18:33:24 INFO  AtVeryNew:30 - $$$$$$$$$Started processing of cardholderReferenceNumberInquiry.xlsx$$$$$$$$$
+21-03-2019 18:33:24 DEBUG CommonUtils:72 - Excel sheet Loaded
+21-03-2019 18:33:24 DEBUG CommonUtils:505 - Host data properties loaded successfully
+21-03-2019 18:33:24 DEBUG CommonUtils:460 - TESTCASE header name written to excel successfully
+21-03-2019 18:33:24 DEBUG CommonUtils:463 - Status code header written to excel successfully
+21-03-2019 18:33:24 DEBUG CommonUtils:467 - Request json header written to excel successfully
+21-03-2019 18:33:24 DEBUG CommonUtils:471 - Response json header written to excel successfully
+21-03-2019 18:33:24 DEBUG CommonUtils:333 - Analysis Headers written to excel successfully
+21-03-2019 18:33:24 DEBUG CommonUtils:477 - Loading test data
+21-03-2019 18:33:24 DEBUG CommonUtils:494 - Test data loaded successfully
+21-03-2019 18:33:24 DEBUG BuildRestRequestKonyImpl:34 - ++++++++++Started Testcase : cardholderReferenceNumberInquiry++++++++++
+21-03-2019 18:33:24 INFO  RequestBuilderKonyImpl:82 - Building SOAP request
+21-03-2019 18:33:24 DEBUG RequestStringBuilderImpl:90 - Request SOAP Message:
+21-03-2019 18:33:24 DEBUG CommonUtils:366 - Request json written to excel successfully
+21-03-2019 18:33:24 DEBUG BuildRestRequestKonyImpl:45 - Executing test case : cardholderReferenceNumberInquiry
+21-03-2019 18:33:25 DEBUG CommonUtils:357 - TESTCASE name written to excel successfully
+21-03-2019 18:33:25 DEBUG CommonUtils:361 - Status code written to excel successfully
+21-03-2019 18:33:25 DEBUG BuildRestRequestKonyImpl:52 - Successfully fired request
+21-03-2019 18:33:25 DEBUG CommonUtils:371 - Response json written to excel successfully
+21-03-2019 18:33:25 DEBUG AssertionBuilderImpl:24 - Starting assertions
+21-03-2019 18:33:25 INFO  AssertionBuilderImpl:51 - 2 assertions found
+21-03-2019 18:33:25 DEBUG AssertionBuilderImpl:35 - Assertions completed
+21-03-2019 18:33:25 DEBUG BuildRestRequestKonyImpl:63 - ++++++++++Testcase cardholderReferenceNumberInquiry completed Successfully++++++++++
+21-03-2019 18:33:25 DEBUG CommonUtils:477 - Loading test data
+21-03-2019 18:33:25 DEBUG CommonUtils:494 - Test data loaded successfully
+21-03-2019 18:33:25 DEBUG BuildRestRequestKonyImpl:34 - ++++++++++Started Testcase : ++++++++++
+21-03-2019 18:33:25 DEBUG BuildRestRequestKonyImpl:42 - ++++++++++Testcases completed with errors.++++++++++
+21-03-2019 18:33:25 INFO  AtVeryNew:39 - Execution completed for the file  cardholderReferenceNumberInquiry.xlsx
+21-03-2019 18:33:25 INFO  CommonUtils:416 - Started rewriting of file cardholderReferenceNumberInquiry.xlsx
+21-03-2019 18:33:25 INFO  CommonUtils:420 - Finished rewriting of file cardholderReferenceNumberInquiry.xlsx
+21-03-2019 18:33:25 INFO  AtVeryNew:30 - $$$$$$$$$Started processing of contractInquiry.xlsx$$$$$$$$$
+21-03-2019 18:33:25 DEBUG CommonUtils:72 - Excel sheet Loaded
+21-03-2019 18:33:25 DEBUG CommonUtils:505 - Host data properties loaded successfully
+21-03-2019 18:33:25 DEBUG CommonUtils:460 - TESTCASE header name written to excel successfully
+21-03-2019 18:33:25 DEBUG CommonUtils:463 - Status code header written to excel successfully
+21-03-2019 18:33:25 DEBUG CommonUtils:467 - Request json header written to excel successfully
+21-03-2019 18:33:25 DEBUG CommonUtils:471 - Response json header written to excel successfully
+21-03-2019 18:33:25 DEBUG CommonUtils:333 - Analysis Headers written to excel successfully
+21-03-2019 18:33:25 DEBUG CommonUtils:477 - Loading test data
+21-03-2019 18:33:25 DEBUG CommonUtils:494 - Test data loaded successfully
+21-03-2019 18:33:25 DEBUG BuildRestRequestKonyImpl:34 - ++++++++++Started Testcase : contractInquiry++++++++++
+21-03-2019 18:33:25 INFO  RequestBuilderKonyImpl:82 - Building SOAP request
+21-03-2019 18:33:25 DEBUG RequestStringBuilderImpl:90 - Request SOAP Message:
+21-03-2019 18:33:25 DEBUG CommonUtils:366 - Request json written to excel successfully
+21-03-2019 18:33:25 DEBUG BuildRestRequestKonyImpl:45 - Executing test case : contractInquiry
+21-03-2019 18:33:26 DEBUG CommonUtils:357 - TESTCASE name written to excel successfully
+21-03-2019 18:33:26 DEBUG CommonUtils:361 - Status code written to excel successfully
+21-03-2019 18:33:26 DEBUG BuildRestRequestKonyImpl:52 - Successfully fired request
+21-03-2019 18:33:26 DEBUG CommonUtils:371 - Response json written to excel successfully
+21-03-2019 18:33:26 DEBUG AssertionBuilderImpl:24 - Starting assertions
+21-03-2019 18:33:26 INFO  AssertionBuilderImpl:51 - 2 assertions found
+21-03-2019 18:33:26 DEBUG AssertionBuilderImpl:35 - Assertions completed
+21-03-2019 18:33:26 DEBUG BuildRestRequestKonyImpl:63 - ++++++++++Testcase contractInquiry completed Successfully++++++++++
+21-03-2019 18:33:26 DEBUG CommonUtils:477 - Loading test data
+21-03-2019 18:33:26 DEBUG CommonUtils:494 - Test data loaded successfully
+21-03-2019 18:33:26 DEBUG BuildRestRequestKonyImpl:34 - ++++++++++Started Testcase : ++++++++++
+21-03-2019 18:33:26 DEBUG BuildRestRequestKonyImpl:42 - ++++++++++Testcases completed with errors.++++++++++
+21-03-2019 18:33:26 INFO  AtVeryNew:39 - Execution completed for the file  contractInquiry.xlsx
+21-03-2019 18:33:26 INFO  CommonUtils:416 - Started rewriting of file contractInquiry.xlsx
+21-03-2019 18:33:26 INFO  CommonUtils:420 - Finished rewriting of file contractInquiry.xlsx
+21-03-2019 18:33:26 INFO  AtVeryNew:30 - $$$$$$$$$Started processing of directDepositDelete.xlsx$$$$$$$$$
+21-03-2019 18:33:26 DEBUG CommonUtils:72 - Excel sheet Loaded
+21-03-2019 18:33:26 DEBUG CommonUtils:505 - Host data properties loaded successfully
+21-03-2019 18:33:26 DEBUG CommonUtils:460 - TESTCASE header name written to excel successfully
+21-03-2019 18:33:26 DEBUG CommonUtils:463 - Status code header written to excel successfully
+21-03-2019 18:33:26 DEBUG CommonUtils:467 - Request json header written to excel successfully
+21-03-2019 18:33:26 DEBUG CommonUtils:471 - Response json header written to excel successfully
+21-03-2019 18:33:26 DEBUG CommonUtils:333 - Analysis Headers written to excel successfully
+21-03-2019 18:33:26 DEBUG CommonUtils:477 - Loading test data
+21-03-2019 18:33:26 DEBUG CommonUtils:494 - Test data loaded successfully
+21-03-2019 18:33:26 DEBUG BuildRestRequestKonyImpl:34 - ++++++++++Started Testcase : directDepositDelete++++++++++
+21-03-2019 18:33:26 INFO  RequestBuilderKonyImpl:82 - Building SOAP request
+21-03-2019 18:33:26 DEBUG RequestStringBuilderImpl:90 - Request SOAP Message:
+21-03-2019 18:33:26 DEBUG CommonUtils:366 - Request json written to excel successfully
+21-03-2019 18:33:26 DEBUG BuildRestRequestKonyImpl:45 - Executing test case : directDepositDelete
+21-03-2019 18:33:28 DEBUG CommonUtils:357 - TESTCASE name written to excel successfully
+21-03-2019 18:33:28 DEBUG CommonUtils:361 - Status code written to excel successfully
+21-03-2019 18:33:28 DEBUG BuildRestRequestKonyImpl:52 - Successfully fired request
+21-03-2019 18:33:28 DEBUG CommonUtils:371 - Response json written to excel successfully
+21-03-2019 18:33:28 DEBUG AssertionBuilderImpl:24 - Starting assertions
+21-03-2019 18:33:28 INFO  AssertionBuilderImpl:51 - 2 assertions found
+21-03-2019 18:33:28 DEBUG AssertionBuilderImpl:35 - Assertions completed
+21-03-2019 18:33:28 DEBUG BuildRestRequestKonyImpl:63 - ++++++++++Testcase directDepositDelete completed Successfully++++++++++
+21-03-2019 18:33:28 DEBUG CommonUtils:477 - Loading test data
+21-03-2019 18:33:28 DEBUG CommonUtils:494 - Test data loaded successfully
+21-03-2019 18:33:28 DEBUG BuildRestRequestKonyImpl:34 - ++++++++++Started Testcase : ++++++++++
+21-03-2019 18:33:28 DEBUG BuildRestRequestKonyImpl:42 - ++++++++++Testcases completed with errors.++++++++++
+21-03-2019 18:33:28 INFO  AtVeryNew:39 - Execution completed for the file  directDepositDelete.xlsx
+21-03-2019 18:33:28 INFO  CommonUtils:416 - Started rewriting of file directDepositDelete.xlsx
+21-03-2019 18:33:28 INFO  CommonUtils:420 - Finished rewriting of file directDepositDelete.xlsx
+21-03-2019 18:33:28 INFO  AtVeryNew:30 - $$$$$$$$$Started processing of directDepositList.xlsx$$$$$$$$$
+21-03-2019 18:33:28 DEBUG CommonUtils:72 - Excel sheet Loaded
+21-03-2019 18:33:28 DEBUG CommonUtils:505 - Host data properties loaded successfully
+21-03-2019 18:33:28 DEBUG CommonUtils:460 - TESTCASE header name written to excel successfully
+21-03-2019 18:33:28 DEBUG CommonUtils:463 - Status code header written to excel successfully
+21-03-2019 18:33:28 DEBUG CommonUtils:467 - Request json header written to excel successfully
+21-03-2019 18:33:28 DEBUG CommonUtils:471 - Response json header written to excel successfully
+21-03-2019 18:33:28 DEBUG CommonUtils:333 - Analysis Headers written to excel successfully
+21-03-2019 18:33:28 DEBUG CommonUtils:477 - Loading test data
+21-03-2019 18:33:28 DEBUG CommonUtils:494 - Test data loaded successfully
+21-03-2019 18:33:28 DEBUG BuildRestRequestKonyImpl:34 - ++++++++++Started Testcase : directDepositList++++++++++
+21-03-2019 18:33:28 INFO  RequestBuilderKonyImpl:82 - Building SOAP request
+21-03-2019 18:33:28 DEBUG RequestStringBuilderImpl:90 - Request SOAP Message:
+21-03-2019 18:33:28 DEBUG CommonUtils:366 - Request json written to excel successfully
+21-03-2019 18:33:28 DEBUG BuildRestRequestKonyImpl:45 - Executing test case : directDepositList
+21-03-2019 18:33:29 DEBUG CommonUtils:357 - TESTCASE name written to excel successfully
+21-03-2019 18:33:29 DEBUG CommonUtils:361 - Status code written to excel successfully
+21-03-2019 18:33:29 DEBUG BuildRestRequestKonyImpl:52 - Successfully fired request
+21-03-2019 18:33:29 DEBUG CommonUtils:371 - Response json written to excel successfully
+21-03-2019 18:33:29 DEBUG AssertionBuilderImpl:24 - Starting assertions
+21-03-2019 18:33:29 INFO  AssertionBuilderImpl:51 - 2 assertions found
+21-03-2019 18:33:29 DEBUG AssertionBuilderImpl:35 - Assertions completed
+21-03-2019 18:33:29 DEBUG BuildRestRequestKonyImpl:63 - ++++++++++Testcase directDepositList completed Successfully++++++++++
+21-03-2019 18:33:29 DEBUG CommonUtils:477 - Loading test data
+21-03-2019 18:33:29 DEBUG CommonUtils:494 - Test data loaded successfully
+21-03-2019 18:33:29 DEBUG BuildRestRequestKonyImpl:34 - ++++++++++Started Testcase : ++++++++++
+21-03-2019 18:33:29 DEBUG BuildRestRequestKonyImpl:42 - ++++++++++Testcases completed with errors.++++++++++
+21-03-2019 18:33:29 INFO  AtVeryNew:39 - Execution completed for the file  directDepositList.xlsx
+21-03-2019 18:33:29 INFO  CommonUtils:416 - Started rewriting of file directDepositList.xlsx
+21-03-2019 18:33:29 INFO  CommonUtils:420 - Finished rewriting of file directDepositList.xlsx
+21-03-2019 18:33:29 INFO  AtVeryNew:30 - $$$$$$$$$Started processing of directDepositUpdate.xlsx$$$$$$$$$
+21-03-2019 18:33:29 DEBUG CommonUtils:72 - Excel sheet Loaded
+21-03-2019 18:33:29 DEBUG CommonUtils:505 - Host data properties loaded successfully
+21-03-2019 18:33:29 DEBUG CommonUtils:460 - TESTCASE header name written to excel successfully
+21-03-2019 18:33:29 DEBUG CommonUtils:463 - Status code header written to excel successfully
+21-03-2019 18:33:29 DEBUG CommonUtils:467 - Request json header written to excel successfully
+21-03-2019 18:33:29 DEBUG CommonUtils:471 - Response json header written to excel successfully
+21-03-2019 18:33:29 DEBUG CommonUtils:333 - Analysis Headers written to excel successfully
+21-03-2019 18:33:29 DEBUG CommonUtils:477 - Loading test data
+21-03-2019 18:33:29 DEBUG CommonUtils:494 - Test data loaded successfully
+21-03-2019 18:33:29 DEBUG BuildRestRequestKonyImpl:34 - ++++++++++Started Testcase : directDepositUpdate++++++++++
+21-03-2019 18:33:29 INFO  RequestBuilderKonyImpl:82 - Building SOAP request
+21-03-2019 18:33:29 DEBUG RequestStringBuilderImpl:90 - Request SOAP Message:
+21-03-2019 18:33:29 DEBUG CommonUtils:366 - Request json written to excel successfully
+21-03-2019 18:33:29 DEBUG BuildRestRequestKonyImpl:45 - Executing test case : directDepositUpdate
+21-03-2019 18:33:31 DEBUG CommonUtils:357 - TESTCASE name written to excel successfully
+21-03-2019 18:33:31 DEBUG CommonUtils:361 - Status code written to excel successfully
+21-03-2019 18:33:31 DEBUG BuildRestRequestKonyImpl:52 - Successfully fired request
+21-03-2019 18:33:31 DEBUG CommonUtils:371 - Response json written to excel successfully
+21-03-2019 18:33:31 DEBUG AssertionBuilderImpl:24 - Starting assertions
+21-03-2019 18:33:31 INFO  AssertionBuilderImpl:51 - 2 assertions found
+21-03-2019 18:33:31 DEBUG AssertionBuilderImpl:35 - Assertions completed
+21-03-2019 18:33:31 DEBUG BuildRestRequestKonyImpl:63 - ++++++++++Testcase directDepositUpdate completed Successfully++++++++++
+21-03-2019 18:33:31 DEBUG CommonUtils:477 - Loading test data
+21-03-2019 18:33:31 DEBUG CommonUtils:494 - Test data loaded successfully
+21-03-2019 18:33:31 DEBUG BuildRestRequestKonyImpl:34 - ++++++++++Started Testcase : ++++++++++
+21-03-2019 18:33:31 DEBUG BuildRestRequestKonyImpl:42 - ++++++++++Testcases completed with errors.++++++++++
+21-03-2019 18:33:31 INFO  AtVeryNew:39 - Execution completed for the file  directDepositUpdate.xlsx
+21-03-2019 18:33:31 INFO  CommonUtils:416 - Started rewriting of file directDepositUpdate.xlsx
+21-03-2019 18:33:31 INFO  CommonUtils:420 - Finished rewriting of file directDepositUpdate.xlsx
+21-03-2019 18:33:31 INFO  AtVeryNew:30 - $$$$$$$$$Started processing of fetchInventoryReport.xlsx$$$$$$$$$
+21-03-2019 18:33:31 DEBUG CommonUtils:72 - Excel sheet Loaded
+21-03-2019 18:33:31 DEBUG CommonUtils:505 - Host data properties loaded successfully
+21-03-2019 18:33:31 DEBUG CommonUtils:460 - TESTCASE header name written to excel successfully
+21-03-2019 18:33:31 DEBUG CommonUtils:463 - Status code header written to excel successfully
+21-03-2019 18:33:31 DEBUG CommonUtils:467 - Request json header written to excel successfully
+21-03-2019 18:33:31 DEBUG CommonUtils:471 - Response json header written to excel successfully
+21-03-2019 18:33:31 DEBUG CommonUtils:333 - Analysis Headers written to excel successfully
+21-03-2019 18:33:31 DEBUG CommonUtils:477 - Loading test data
+21-03-2019 18:33:31 DEBUG CommonUtils:494 - Test data loaded successfully
+21-03-2019 18:33:31 DEBUG BuildRestRequestKonyImpl:34 - ++++++++++Started Testcase : fetchInventoryReport++++++++++
+21-03-2019 18:33:31 INFO  RequestBuilderKonyImpl:82 - Building SOAP request
+21-03-2019 18:33:31 DEBUG RequestStringBuilderImpl:90 - Request SOAP Message:
+21-03-2019 18:33:31 DEBUG CommonUtils:366 - Request json written to excel successfully
+21-03-2019 18:33:31 DEBUG BuildRestRequestKonyImpl:45 - Executing test case : fetchInventoryReport
+21-03-2019 18:33:32 DEBUG CommonUtils:357 - TESTCASE name written to excel successfully
+21-03-2019 18:33:32 DEBUG CommonUtils:361 - Status code written to excel successfully
+21-03-2019 18:33:32 DEBUG BuildRestRequestKonyImpl:52 - Successfully fired request
+21-03-2019 18:33:32 DEBUG CommonUtils:371 - Response json written to excel successfully
+21-03-2019 18:33:32 DEBUG AssertionBuilderImpl:24 - Starting assertions
+21-03-2019 18:33:32 INFO  AssertionBuilderImpl:51 - 2 assertions found
+21-03-2019 18:33:32 DEBUG AssertionBuilderImpl:35 - Assertions completed
+21-03-2019 18:33:32 DEBUG BuildRestRequestKonyImpl:63 - ++++++++++Testcase fetchInventoryReport completed Successfully++++++++++
+21-03-2019 18:33:32 DEBUG CommonUtils:477 - Loading test data
+21-03-2019 18:33:32 DEBUG CommonUtils:494 - Test data loaded successfully
+21-03-2019 18:33:32 DEBUG BuildRestRequestKonyImpl:34 - ++++++++++Started Testcase : ++++++++++
+21-03-2019 18:33:32 DEBUG BuildRestRequestKonyImpl:42 - ++++++++++Testcases completed with errors.++++++++++
+21-03-2019 18:33:32 INFO  AtVeryNew:39 - Execution completed for the file  fetchInventoryReport.xlsx
+21-03-2019 18:33:32 INFO  CommonUtils:416 - Started rewriting of file fetchInventoryReport.xlsx
+21-03-2019 18:33:32 INFO  CommonUtils:420 - Finished rewriting of file fetchInventoryReport.xlsx
+21-03-2019 18:33:32 INFO  AtVeryNew:30 - $$$$$$$$$Started processing of giftCardActivation.xlsx$$$$$$$$$
+21-03-2019 18:33:32 DEBUG CommonUtils:72 - Excel sheet Loaded
+21-03-2019 18:33:32 DEBUG CommonUtils:505 - Host data properties loaded successfully
+21-03-2019 18:33:32 DEBUG CommonUtils:460 - TESTCASE header name written to excel successfully
+21-03-2019 18:33:32 DEBUG CommonUtils:463 - Status code header written to excel successfully
+21-03-2019 18:33:32 DEBUG CommonUtils:467 - Request json header written to excel successfully
+21-03-2019 18:33:32 DEBUG CommonUtils:471 - Response json header written to excel successfully
+21-03-2019 18:33:32 DEBUG CommonUtils:333 - Analysis Headers written to excel successfully
+21-03-2019 18:33:32 DEBUG CommonUtils:477 - Loading test data
+21-03-2019 18:33:32 DEBUG CommonUtils:494 - Test data loaded successfully
+21-03-2019 18:33:32 DEBUG BuildRestRequestKonyImpl:34 - ++++++++++Started Testcase : giftCardActivation++++++++++
+21-03-2019 18:33:32 INFO  RequestBuilderKonyImpl:82 - Building SOAP request
+21-03-2019 18:33:32 DEBUG RequestStringBuilderImpl:90 - Request SOAP Message:
+21-03-2019 18:33:32 DEBUG CommonUtils:366 - Request json written to excel successfully
+21-03-2019 18:33:32 DEBUG BuildRestRequestKonyImpl:45 - Executing test case : giftCardActivation
+21-03-2019 18:33:33 DEBUG CommonUtils:357 - TESTCASE name written to excel successfully
+21-03-2019 18:33:33 DEBUG CommonUtils:361 - Status code written to excel successfully
+21-03-2019 18:33:33 DEBUG BuildRestRequestKonyImpl:52 - Successfully fired request
+21-03-2019 18:33:33 DEBUG CommonUtils:371 - Response json written to excel successfully
+21-03-2019 18:33:33 DEBUG AssertionBuilderImpl:24 - Starting assertions
+21-03-2019 18:33:33 INFO  AssertionBuilderImpl:51 - 2 assertions found
+21-03-2019 18:33:33 DEBUG AssertionBuilderImpl:35 - Assertions completed
+21-03-2019 18:33:33 DEBUG BuildRestRequestKonyImpl:63 - ++++++++++Testcase giftCardActivation completed Successfully++++++++++
+21-03-2019 18:33:33 DEBUG CommonUtils:477 - Loading test data
+21-03-2019 18:33:33 DEBUG CommonUtils:494 - Test data loaded successfully
+21-03-2019 18:33:33 DEBUG BuildRestRequestKonyImpl:34 - ++++++++++Started Testcase : ++++++++++
+21-03-2019 18:33:33 DEBUG BuildRestRequestKonyImpl:42 - ++++++++++Testcases completed with errors.++++++++++
+21-03-2019 18:33:33 INFO  AtVeryNew:39 - Execution completed for the file  giftCardActivation.xlsx
+21-03-2019 18:33:33 INFO  CommonUtils:416 - Started rewriting of file giftCardActivation.xlsx
+21-03-2019 18:33:33 INFO  CommonUtils:420 - Finished rewriting of file giftCardActivation.xlsx
+21-03-2019 18:33:33 INFO  AtVeryNew:30 - $$$$$$$$$Started processing of isGiftCard.xlsx$$$$$$$$$
+21-03-2019 18:33:34 DEBUG CommonUtils:72 - Excel sheet Loaded
+21-03-2019 18:33:34 DEBUG CommonUtils:505 - Host data properties loaded successfully
+21-03-2019 18:33:34 DEBUG CommonUtils:460 - TESTCASE header name written to excel successfully
+21-03-2019 18:33:34 DEBUG CommonUtils:463 - Status code header written to excel successfully
+21-03-2019 18:33:34 DEBUG CommonUtils:467 - Request json header written to excel successfully
+21-03-2019 18:33:34 DEBUG CommonUtils:471 - Response json header written to excel successfully
+21-03-2019 18:33:34 DEBUG CommonUtils:333 - Analysis Headers written to excel successfully
+21-03-2019 18:33:34 DEBUG CommonUtils:477 - Loading test data
+21-03-2019 18:33:34 DEBUG CommonUtils:494 - Test data loaded successfully
+21-03-2019 18:33:34 DEBUG BuildRestRequestKonyImpl:34 - ++++++++++Started Testcase : isGiftCard++++++++++
+21-03-2019 18:33:34 INFO  RequestBuilderKonyImpl:82 - Building SOAP request
+21-03-2019 18:33:34 DEBUG RequestStringBuilderImpl:90 - Request SOAP Message:
+21-03-2019 18:33:34 DEBUG CommonUtils:366 - Request json written to excel successfully
+21-03-2019 18:33:34 DEBUG BuildRestRequestKonyImpl:45 - Executing test case : isGiftCard
+21-03-2019 18:33:35 DEBUG CommonUtils:357 - TESTCASE name written to excel successfully
+21-03-2019 18:33:35 DEBUG CommonUtils:361 - Status code written to excel successfully
+21-03-2019 18:33:35 DEBUG BuildRestRequestKonyImpl:52 - Successfully fired request
+21-03-2019 18:33:35 DEBUG CommonUtils:371 - Response json written to excel successfully
+21-03-2019 18:33:35 DEBUG AssertionBuilderImpl:24 - Starting assertions
+21-03-2019 18:33:35 INFO  AssertionBuilderImpl:51 - 2 assertions found
+21-03-2019 18:33:35 DEBUG AssertionBuilderImpl:35 - Assertions completed
+21-03-2019 18:33:35 DEBUG BuildRestRequestKonyImpl:63 - ++++++++++Testcase isGiftCard completed Successfully++++++++++
+21-03-2019 18:33:35 DEBUG CommonUtils:477 - Loading test data
+21-03-2019 18:33:35 DEBUG CommonUtils:494 - Test data loaded successfully
+21-03-2019 18:33:35 DEBUG BuildRestRequestKonyImpl:34 - ++++++++++Started Testcase : ++++++++++
+21-03-2019 18:33:35 DEBUG BuildRestRequestKonyImpl:42 - ++++++++++Testcases completed with errors.++++++++++
+21-03-2019 18:33:35 INFO  AtVeryNew:39 - Execution completed for the file  isGiftCard.xlsx
+21-03-2019 18:33:35 INFO  CommonUtils:416 - Started rewriting of file isGiftCard.xlsx
+21-03-2019 18:33:35 INFO  CommonUtils:420 - Finished rewriting of file isGiftCard.xlsx
+21-03-2019 18:33:35 INFO  AtVeryNew:30 - $$$$$$$$$Started processing of loadCancel.xlsx$$$$$$$$$
+21-03-2019 18:33:35 DEBUG CommonUtils:72 - Excel sheet Loaded
+21-03-2019 18:33:35 DEBUG CommonUtils:505 - Host data properties loaded successfully
+21-03-2019 18:33:35 DEBUG CommonUtils:460 - TESTCASE header name written to excel successfully
+21-03-2019 18:33:35 DEBUG CommonUtils:463 - Status code header written to excel successfully
+21-03-2019 18:33:35 DEBUG CommonUtils:467 - Request json header written to excel successfully
+21-03-2019 18:33:35 DEBUG CommonUtils:471 - Response json header written to excel successfully
+21-03-2019 18:33:35 DEBUG CommonUtils:333 - Analysis Headers written to excel successfully
+21-03-2019 18:33:35 DEBUG CommonUtils:477 - Loading test data
+21-03-2019 18:33:35 DEBUG CommonUtils:494 - Test data loaded successfully
+21-03-2019 18:33:35 DEBUG BuildRestRequestKonyImpl:34 - ++++++++++Started Testcase : loadCancel++++++++++
+21-03-2019 18:33:35 INFO  RequestBuilderKonyImpl:82 - Building SOAP request
+21-03-2019 18:33:35 DEBUG RequestStringBuilderImpl:90 - Request SOAP Message:
+21-03-2019 18:33:35 DEBUG CommonUtils:366 - Request json written to excel successfully
+21-03-2019 18:33:35 DEBUG BuildRestRequestKonyImpl:45 - Executing test case : loadCancel
+21-03-2019 18:33:36 DEBUG CommonUtils:357 - TESTCASE name written to excel successfully
+21-03-2019 18:33:36 DEBUG CommonUtils:361 - Status code written to excel successfully
+21-03-2019 18:33:36 DEBUG BuildRestRequestKonyImpl:52 - Successfully fired request
+21-03-2019 18:33:36 DEBUG CommonUtils:371 - Response json written to excel successfully
+21-03-2019 18:33:36 DEBUG AssertionBuilderImpl:24 - Starting assertions
+21-03-2019 18:33:36 INFO  AssertionBuilderImpl:51 - 2 assertions found
+21-03-2019 18:33:36 DEBUG AssertionBuilderImpl:35 - Assertions completed
+21-03-2019 18:33:36 DEBUG BuildRestRequestKonyImpl:63 - ++++++++++Testcase loadCancel completed Successfully++++++++++
+21-03-2019 18:33:36 DEBUG CommonUtils:477 - Loading test data
+21-03-2019 18:33:36 DEBUG CommonUtils:494 - Test data loaded successfully
+21-03-2019 18:33:36 DEBUG BuildRestRequestKonyImpl:34 - ++++++++++Started Testcase : ++++++++++
+21-03-2019 18:33:36 DEBUG BuildRestRequestKonyImpl:42 - ++++++++++Testcases completed with errors.++++++++++
+21-03-2019 18:33:36 INFO  AtVeryNew:39 - Execution completed for the file  loadCancel.xlsx
+21-03-2019 18:33:36 INFO  CommonUtils:416 - Started rewriting of file loadCancel.xlsx
+21-03-2019 18:33:36 INFO  CommonUtils:420 - Finished rewriting of file loadCancel.xlsx
+21-03-2019 18:33:36 INFO  AtVeryNew:30 - $$$$$$$$$Started processing of loadList.xlsx$$$$$$$$$
+21-03-2019 18:33:36 DEBUG CommonUtils:72 - Excel sheet Loaded
+21-03-2019 18:33:36 DEBUG CommonUtils:505 - Host data properties loaded successfully
+21-03-2019 18:33:36 DEBUG CommonUtils:460 - TESTCASE header name written to excel successfully
+21-03-2019 18:33:36 DEBUG CommonUtils:463 - Status code header written to excel successfully
+21-03-2019 18:33:36 DEBUG CommonUtils:467 - Request json header written to excel successfully
+21-03-2019 18:33:36 DEBUG CommonUtils:471 - Response json header written to excel successfully
+21-03-2019 18:33:36 DEBUG CommonUtils:333 - Analysis Headers written to excel successfully
+21-03-2019 18:33:36 DEBUG CommonUtils:477 - Loading test data
+21-03-2019 18:33:36 DEBUG CommonUtils:494 - Test data loaded successfully
+21-03-2019 18:33:36 DEBUG BuildRestRequestKonyImpl:34 - ++++++++++Started Testcase : loadList++++++++++
+21-03-2019 18:33:36 INFO  RequestBuilderKonyImpl:82 - Building SOAP request
+21-03-2019 18:33:36 DEBUG RequestStringBuilderImpl:90 - Request SOAP Message:
+21-03-2019 18:33:36 DEBUG CommonUtils:366 - Request json written to excel successfully
+21-03-2019 18:33:36 DEBUG BuildRestRequestKonyImpl:45 - Executing test case : loadList
+21-03-2019 18:33:38 DEBUG CommonUtils:357 - TESTCASE name written to excel successfully
+21-03-2019 18:33:38 DEBUG CommonUtils:361 - Status code written to excel successfully
+21-03-2019 18:33:38 DEBUG BuildRestRequestKonyImpl:52 - Successfully fired request
+21-03-2019 18:33:38 DEBUG CommonUtils:371 - Response json written to excel successfully
+21-03-2019 18:33:38 DEBUG AssertionBuilderImpl:24 - Starting assertions
+21-03-2019 18:33:38 INFO  AssertionBuilderImpl:51 - 2 assertions found
+21-03-2019 18:33:38 DEBUG AssertionBuilderImpl:35 - Assertions completed
+21-03-2019 18:33:38 DEBUG BuildRestRequestKonyImpl:63 - ++++++++++Testcase loadList completed Successfully++++++++++
+21-03-2019 18:33:38 DEBUG CommonUtils:477 - Loading test data
+21-03-2019 18:33:38 DEBUG CommonUtils:494 - Test data loaded successfully
+21-03-2019 18:33:38 DEBUG BuildRestRequestKonyImpl:34 - ++++++++++Started Testcase : ++++++++++
+21-03-2019 18:33:38 DEBUG BuildRestRequestKonyImpl:42 - ++++++++++Testcases completed with errors.++++++++++
+21-03-2019 18:33:38 INFO  AtVeryNew:39 - Execution completed for the file  loadList.xlsx
+21-03-2019 18:33:38 INFO  CommonUtils:416 - Started rewriting of file loadList.xlsx
+21-03-2019 18:33:38 INFO  CommonUtils:420 - Finished rewriting of file loadList.xlsx
+21-03-2019 18:33:38 INFO  AtVeryNew:30 - $$$$$$$$$Started processing of payInvoice.xlsx$$$$$$$$$
+21-03-2019 18:33:38 DEBUG CommonUtils:72 - Excel sheet Loaded
+21-03-2019 18:33:38 DEBUG CommonUtils:505 - Host data properties loaded successfully
+21-03-2019 18:33:38 DEBUG CommonUtils:460 - TESTCASE header name written to excel successfully
+21-03-2019 18:33:38 DEBUG CommonUtils:463 - Status code header written to excel successfully
+21-03-2019 18:33:38 DEBUG CommonUtils:467 - Request json header written to excel successfully
+21-03-2019 18:33:38 DEBUG CommonUtils:471 - Response json header written to excel successfully
+21-03-2019 18:33:38 DEBUG CommonUtils:333 - Analysis Headers written to excel successfully
+21-03-2019 18:33:38 DEBUG CommonUtils:477 - Loading test data
+21-03-2019 18:33:38 DEBUG CommonUtils:494 - Test data loaded successfully
+21-03-2019 18:33:38 DEBUG BuildRestRequestKonyImpl:34 - ++++++++++Started Testcase : payInvoice++++++++++
+21-03-2019 18:33:38 INFO  RequestBuilderKonyImpl:82 - Building SOAP request
+21-03-2019 18:33:38 DEBUG RequestStringBuilderImpl:90 - Request SOAP Message:
+21-03-2019 18:33:38 DEBUG CommonUtils:366 - Request json written to excel successfully
+21-03-2019 18:33:38 DEBUG BuildRestRequestKonyImpl:45 - Executing test case : payInvoice
+21-03-2019 18:33:39 DEBUG CommonUtils:357 - TESTCASE name written to excel successfully
+21-03-2019 18:33:39 DEBUG CommonUtils:361 - Status code written to excel successfully
+21-03-2019 18:33:39 DEBUG BuildRestRequestKonyImpl:52 - Successfully fired request
+21-03-2019 18:33:39 DEBUG CommonUtils:371 - Response json written to excel successfully
+21-03-2019 18:33:39 DEBUG AssertionBuilderImpl:24 - Starting assertions
+21-03-2019 18:33:39 INFO  AssertionBuilderImpl:51 - 2 assertions found
+21-03-2019 18:33:39 DEBUG AssertionBuilderImpl:35 - Assertions completed
+21-03-2019 18:33:39 DEBUG BuildRestRequestKonyImpl:63 - ++++++++++Testcase payInvoice completed Successfully++++++++++
+21-03-2019 18:33:39 DEBUG CommonUtils:477 - Loading test data
+21-03-2019 18:33:39 DEBUG CommonUtils:494 - Test data loaded successfully
+21-03-2019 18:33:39 DEBUG BuildRestRequestKonyImpl:34 - ++++++++++Started Testcase : ++++++++++
+21-03-2019 18:33:39 DEBUG BuildRestRequestKonyImpl:42 - ++++++++++Testcases completed with errors.++++++++++
+21-03-2019 18:33:39 INFO  AtVeryNew:39 - Execution completed for the file  payInvoice.xlsx
+21-03-2019 18:33:39 INFO  CommonUtils:416 - Started rewriting of file payInvoice.xlsx
+21-03-2019 18:33:39 INFO  CommonUtils:420 - Finished rewriting of file payInvoice.xlsx
+21-03-2019 18:33:39 INFO  AtVeryNew:30 - $$$$$$$$$Started processing of paymentList.xlsx$$$$$$$$$
+21-03-2019 18:33:39 DEBUG CommonUtils:72 - Excel sheet Loaded
+21-03-2019 18:33:39 DEBUG CommonUtils:505 - Host data properties loaded successfully
+21-03-2019 18:33:39 DEBUG CommonUtils:460 - TESTCASE header name written to excel successfully
+21-03-2019 18:33:39 DEBUG CommonUtils:463 - Status code header written to excel successfully
+21-03-2019 18:33:39 DEBUG CommonUtils:467 - Request json header written to excel successfully
+21-03-2019 18:33:39 DEBUG CommonUtils:471 - Response json header written to excel successfully
+21-03-2019 18:33:39 DEBUG CommonUtils:333 - Analysis Headers written to excel successfully
+21-03-2019 18:33:39 DEBUG CommonUtils:477 - Loading test data
+21-03-2019 18:33:39 DEBUG CommonUtils:494 - Test data loaded successfully
+21-03-2019 18:33:39 DEBUG BuildRestRequestKonyImpl:34 - ++++++++++Started Testcase : paymentList++++++++++
+21-03-2019 18:33:39 INFO  RequestBuilderKonyImpl:82 - Building SOAP request
+21-03-2019 18:33:39 DEBUG RequestStringBuilderImpl:90 - Request SOAP Message:
+21-03-2019 18:33:39 DEBUG CommonUtils:366 - Request json written to excel successfully
+21-03-2019 18:33:39 DEBUG BuildRestRequestKonyImpl:45 - Executing test case : paymentList
+21-03-2019 18:33:40 DEBUG CommonUtils:357 - TESTCASE name written to excel successfully
+21-03-2019 18:33:40 DEBUG CommonUtils:361 - Status code written to excel successfully
+21-03-2019 18:33:40 DEBUG BuildRestRequestKonyImpl:52 - Successfully fired request
+21-03-2019 18:33:40 DEBUG CommonUtils:371 - Response json written to excel successfully
+21-03-2019 18:33:40 DEBUG AssertionBuilderImpl:24 - Starting assertions
+21-03-2019 18:33:40 INFO  AssertionBuilderImpl:51 - 2 assertions found
+21-03-2019 18:33:40 DEBUG AssertionBuilderImpl:35 - Assertions completed
+21-03-2019 18:33:40 DEBUG BuildRestRequestKonyImpl:63 - ++++++++++Testcase paymentList completed Successfully++++++++++
+21-03-2019 18:33:40 DEBUG CommonUtils:477 - Loading test data
+21-03-2019 18:33:40 DEBUG CommonUtils:494 - Test data loaded successfully
+21-03-2019 18:33:40 DEBUG BuildRestRequestKonyImpl:34 - ++++++++++Started Testcase : ++++++++++
+21-03-2019 18:33:40 DEBUG BuildRestRequestKonyImpl:42 - ++++++++++Testcases completed with errors.++++++++++
+21-03-2019 18:33:40 INFO  AtVeryNew:39 - Execution completed for the file  paymentList.xlsx
+21-03-2019 18:33:40 INFO  CommonUtils:416 - Started rewriting of file paymentList.xlsx
+21-03-2019 18:33:40 INFO  CommonUtils:420 - Finished rewriting of file paymentList.xlsx
+21-03-2019 18:33:40 INFO  AtVeryNew:30 - $$$$$$$$$Started processing of payTotalDue.xlsx$$$$$$$$$
+21-03-2019 18:33:40 DEBUG CommonUtils:72 - Excel sheet Loaded
+21-03-2019 18:33:40 DEBUG CommonUtils:505 - Host data properties loaded successfully
+21-03-2019 18:33:40 DEBUG CommonUtils:460 - TESTCASE header name written to excel successfully
+21-03-2019 18:33:40 DEBUG CommonUtils:463 - Status code header written to excel successfully
+21-03-2019 18:33:40 DEBUG CommonUtils:467 - Request json header written to excel successfully
+21-03-2019 18:33:40 DEBUG CommonUtils:471 - Response json header written to excel successfully
+21-03-2019 18:33:40 DEBUG CommonUtils:333 - Analysis Headers written to excel successfully
+21-03-2019 18:33:40 DEBUG CommonUtils:477 - Loading test data
+21-03-2019 18:33:40 DEBUG CommonUtils:494 - Test data loaded successfully
+21-03-2019 18:33:40 DEBUG BuildRestRequestKonyImpl:34 - ++++++++++Started Testcase : payTotalDue++++++++++
+21-03-2019 18:33:40 INFO  RequestBuilderKonyImpl:82 - Building SOAP request
+21-03-2019 18:33:40 DEBUG RequestStringBuilderImpl:90 - Request SOAP Message:
+21-03-2019 18:33:40 DEBUG CommonUtils:366 - Request json written to excel successfully
+21-03-2019 18:33:40 DEBUG BuildRestRequestKonyImpl:45 - Executing test case : payTotalDue
+21-03-2019 18:33:42 DEBUG CommonUtils:357 - TESTCASE name written to excel successfully
+21-03-2019 18:33:42 DEBUG CommonUtils:361 - Status code written to excel successfully
+21-03-2019 18:33:42 DEBUG BuildRestRequestKonyImpl:52 - Successfully fired request
+21-03-2019 18:33:42 DEBUG CommonUtils:371 - Response json written to excel successfully
+21-03-2019 18:33:42 DEBUG AssertionBuilderImpl:24 - Starting assertions
+21-03-2019 18:33:42 INFO  AssertionBuilderImpl:51 - 2 assertions found
+21-03-2019 18:33:42 DEBUG AssertionBuilderImpl:35 - Assertions completed
+21-03-2019 18:33:42 DEBUG BuildRestRequestKonyImpl:63 - ++++++++++Testcase payTotalDue completed Successfully++++++++++
+21-03-2019 18:33:42 DEBUG CommonUtils:477 - Loading test data
+21-03-2019 18:33:42 DEBUG CommonUtils:494 - Test data loaded successfully
+21-03-2019 18:33:42 DEBUG BuildRestRequestKonyImpl:34 - ++++++++++Started Testcase : ++++++++++
+21-03-2019 18:33:42 DEBUG BuildRestRequestKonyImpl:42 - ++++++++++Testcases completed with errors.++++++++++
+21-03-2019 18:33:42 INFO  AtVeryNew:39 - Execution completed for the file  payTotalDue.xlsx
+21-03-2019 18:33:42 INFO  CommonUtils:416 - Started rewriting of file payTotalDue.xlsx
+21-03-2019 18:33:42 INFO  CommonUtils:420 - Finished rewriting of file payTotalDue.xlsx
+21-03-2019 18:33:42 INFO  AtVeryNew:30 - $$$$$$$$$Started processing of pinClear.xlsx$$$$$$$$$
+21-03-2019 18:33:42 DEBUG CommonUtils:72 - Excel sheet Loaded
+21-03-2019 18:33:42 DEBUG CommonUtils:505 - Host data properties loaded successfully
+21-03-2019 18:33:42 DEBUG CommonUtils:460 - TESTCASE header name written to excel successfully
+21-03-2019 18:33:42 DEBUG CommonUtils:463 - Status code header written to excel successfully
+21-03-2019 18:33:42 DEBUG CommonUtils:467 - Request json header written to excel successfully
+21-03-2019 18:33:42 DEBUG CommonUtils:471 - Response json header written to excel successfully
+21-03-2019 18:33:42 DEBUG CommonUtils:333 - Analysis Headers written to excel successfully
+21-03-2019 18:33:42 DEBUG CommonUtils:477 - Loading test data
+21-03-2019 18:33:42 DEBUG CommonUtils:494 - Test data loaded successfully
+21-03-2019 18:33:42 DEBUG BuildRestRequestKonyImpl:34 - ++++++++++Started Testcase : pinClear++++++++++
+21-03-2019 18:33:42 INFO  RequestBuilderKonyImpl:82 - Building SOAP request
+21-03-2019 18:33:42 DEBUG RequestStringBuilderImpl:90 - Request SOAP Message:
+21-03-2019 18:33:42 DEBUG CommonUtils:366 - Request json written to excel successfully
+21-03-2019 18:33:42 DEBUG BuildRestRequestKonyImpl:45 - Executing test case : pinClear
+21-03-2019 18:33:43 DEBUG CommonUtils:357 - TESTCASE name written to excel successfully
+21-03-2019 18:33:43 DEBUG CommonUtils:361 - Status code written to excel successfully
+21-03-2019 18:33:43 DEBUG BuildRestRequestKonyImpl:52 - Successfully fired request
+21-03-2019 18:33:43 DEBUG CommonUtils:371 - Response json written to excel successfully
+21-03-2019 18:33:43 DEBUG AssertionBuilderImpl:24 - Starting assertions
+21-03-2019 18:33:43 INFO  AssertionBuilderImpl:51 - 2 assertions found
+21-03-2019 18:33:43 DEBUG AssertionBuilderImpl:35 - Assertions completed
+21-03-2019 18:33:43 DEBUG BuildRestRequestKonyImpl:63 - ++++++++++Testcase pinClear completed Successfully++++++++++
+21-03-2019 18:33:43 DEBUG CommonUtils:477 - Loading test data
+21-03-2019 18:33:43 DEBUG CommonUtils:494 - Test data loaded successfully
+21-03-2019 18:33:43 DEBUG BuildRestRequestKonyImpl:34 - ++++++++++Started Testcase : ++++++++++
+21-03-2019 18:33:43 DEBUG BuildRestRequestKonyImpl:42 - ++++++++++Testcases completed with errors.++++++++++
+21-03-2019 18:33:43 INFO  AtVeryNew:39 - Execution completed for the file  pinClear.xlsx
+21-03-2019 18:33:43 INFO  CommonUtils:416 - Started rewriting of file pinClear.xlsx
+21-03-2019 18:33:43 INFO  CommonUtils:420 - Finished rewriting of file pinClear.xlsx
+21-03-2019 18:33:43 INFO  AtVeryNew:30 - $$$$$$$$$Started processing of productList.xlsx$$$$$$$$$
+21-03-2019 18:33:43 DEBUG CommonUtils:72 - Excel sheet Loaded
+21-03-2019 18:33:43 DEBUG CommonUtils:505 - Host data properties loaded successfully
+21-03-2019 18:33:43 DEBUG CommonUtils:460 - TESTCASE header name written to excel successfully
+21-03-2019 18:33:43 DEBUG CommonUtils:463 - Status code header written to excel successfully
+21-03-2019 18:33:43 DEBUG CommonUtils:467 - Request json header written to excel successfully
+21-03-2019 18:33:43 DEBUG CommonUtils:471 - Response json header written to excel successfully
+21-03-2019 18:33:43 DEBUG CommonUtils:333 - Analysis Headers written to excel successfully
+21-03-2019 18:33:43 DEBUG CommonUtils:477 - Loading test data
+21-03-2019 18:33:43 DEBUG CommonUtils:494 - Test data loaded successfully
+21-03-2019 18:33:43 DEBUG BuildRestRequestKonyImpl:34 - ++++++++++Started Testcase : productList++++++++++
+21-03-2019 18:33:43 INFO  RequestBuilderKonyImpl:82 - Building SOAP request
+21-03-2019 18:33:43 DEBUG RequestStringBuilderImpl:90 - Request SOAP Message:
+21-03-2019 18:33:43 DEBUG CommonUtils:366 - Request json written to excel successfully
+21-03-2019 18:33:43 DEBUG BuildRestRequestKonyImpl:45 - Executing test case : productList
+21-03-2019 18:33:45 DEBUG CommonUtils:357 - TESTCASE name written to excel successfully
+21-03-2019 18:33:45 DEBUG CommonUtils:361 - Status code written to excel successfully
+21-03-2019 18:33:45 DEBUG BuildRestRequestKonyImpl:52 - Successfully fired request
+21-03-2019 18:33:45 DEBUG CommonUtils:371 - Response json written to excel successfully
+21-03-2019 18:33:45 DEBUG AssertionBuilderImpl:24 - Starting assertions
+21-03-2019 18:33:45 INFO  AssertionBuilderImpl:51 - 2 assertions found
+21-03-2019 18:33:45 DEBUG AssertionBuilderImpl:35 - Assertions completed
+21-03-2019 18:33:45 DEBUG BuildRestRequestKonyImpl:63 - ++++++++++Testcase productList completed Successfully++++++++++
+21-03-2019 18:33:45 DEBUG CommonUtils:477 - Loading test data
+21-03-2019 18:33:45 DEBUG CommonUtils:494 - Test data loaded successfully
+21-03-2019 18:33:45 DEBUG BuildRestRequestKonyImpl:34 - ++++++++++Started Testcase : ++++++++++
+21-03-2019 18:33:45 DEBUG BuildRestRequestKonyImpl:42 - ++++++++++Testcases completed with errors.++++++++++
+21-03-2019 18:33:45 INFO  AtVeryNew:39 - Execution completed for the file  productList.xlsx
+21-03-2019 18:33:45 INFO  CommonUtils:416 - Started rewriting of file productList.xlsx
+21-03-2019 18:33:45 INFO  CommonUtils:420 - Finished rewriting of file productList.xlsx
+21-03-2019 18:33:45 INFO  AtVeryNew:52 - Taken taken to process : 38Seconds
+21-03-2019 18:33:48 INFO  AtVeryNew:58 - Successfully completed.
+21-03-2019 18:37:21 INFO  AtVeryNew:30 - $$$$$$$$$Started processing of accountList.xlsx$$$$$$$$$
+21-03-2019 18:37:22 DEBUG CommonUtils:72 - Excel sheet Loaded
+21-03-2019 18:37:22 DEBUG CommonUtils:505 - Host data properties loaded successfully
+21-03-2019 18:37:22 DEBUG CommonUtils:460 - TESTCASE header name written to excel successfully
+21-03-2019 18:37:22 DEBUG CommonUtils:463 - Status code header written to excel successfully
+21-03-2019 18:37:22 DEBUG CommonUtils:467 - Request json header written to excel successfully
+21-03-2019 18:37:22 DEBUG CommonUtils:471 - Response json header written to excel successfully
+21-03-2019 18:37:22 DEBUG CommonUtils:333 - Analysis Headers written to excel successfully
+21-03-2019 18:37:22 DEBUG CommonUtils:477 - Loading test data
+21-03-2019 18:37:22 DEBUG CommonUtils:494 - Test data loaded successfully
+21-03-2019 18:37:22 DEBUG BuildRestRequestKonyImpl:34 - ++++++++++Started Testcase : accountList++++++++++
+21-03-2019 18:37:22 INFO  RequestBuilderKonyImpl:82 - Building SOAP request
+21-03-2019 18:37:22 DEBUG RequestStringBuilderImpl:90 - Request SOAP Message:
+21-03-2019 18:37:22 DEBUG CommonUtils:366 - Request json written to excel successfully
+21-03-2019 18:37:22 DEBUG BuildRestRequestKonyImpl:45 - Executing test case : accountList
+21-03-2019 18:37:24 DEBUG CommonUtils:357 - TESTCASE name written to excel successfully
+21-03-2019 18:37:24 DEBUG CommonUtils:361 - Status code written to excel successfully
+21-03-2019 18:37:24 DEBUG BuildRestRequestKonyImpl:52 - Successfully fired request
+21-03-2019 18:37:24 DEBUG CommonUtils:371 - Response json written to excel successfully
+21-03-2019 18:37:24 DEBUG AssertionBuilderImpl:24 - Starting assertions
+21-03-2019 18:37:24 INFO  AssertionBuilderImpl:51 - 2 assertions found
+21-03-2019 18:37:24 DEBUG AssertionBuilderImpl:35 - Assertions completed
+21-03-2019 18:37:24 DEBUG BuildRestRequestKonyImpl:63 - ++++++++++Testcase accountList completed Successfully++++++++++
+21-03-2019 18:37:24 DEBUG CommonUtils:477 - Loading test data
+21-03-2019 18:37:24 DEBUG CommonUtils:494 - Test data loaded successfully
+21-03-2019 18:37:24 DEBUG BuildRestRequestKonyImpl:34 - ++++++++++Started Testcase : ++++++++++
+21-03-2019 18:37:24 DEBUG BuildRestRequestKonyImpl:42 - ++++++++++Testcases completed with errors.++++++++++
+21-03-2019 18:37:24 INFO  AtVeryNew:39 - Execution completed for the file  accountList.xlsx
+21-03-2019 18:37:24 INFO  CommonUtils:416 - Started rewriting of file accountList.xlsx
+21-03-2019 18:37:24 INFO  CommonUtils:420 - Finished rewriting of file accountList.xlsx
+21-03-2019 18:37:24 INFO  AtVeryNew:30 - $$$$$$$$$Started processing of accountSummary.xlsx$$$$$$$$$
+21-03-2019 18:37:24 DEBUG CommonUtils:72 - Excel sheet Loaded
+21-03-2019 18:37:24 DEBUG CommonUtils:505 - Host data properties loaded successfully
+21-03-2019 18:37:24 DEBUG CommonUtils:460 - TESTCASE header name written to excel successfully
+21-03-2019 18:37:24 DEBUG CommonUtils:463 - Status code header written to excel successfully
+21-03-2019 18:37:24 DEBUG CommonUtils:467 - Request json header written to excel successfully
+21-03-2019 18:37:24 DEBUG CommonUtils:471 - Response json header written to excel successfully
+21-03-2019 18:37:24 DEBUG CommonUtils:333 - Analysis Headers written to excel successfully
+21-03-2019 18:37:24 DEBUG CommonUtils:477 - Loading test data
+21-03-2019 18:37:24 DEBUG CommonUtils:494 - Test data loaded successfully
+21-03-2019 18:37:24 DEBUG BuildRestRequestKonyImpl:34 - ++++++++++Started Testcase : accountSummary++++++++++
+21-03-2019 18:37:24 INFO  RequestBuilderKonyImpl:82 - Building SOAP request
+21-03-2019 18:37:24 DEBUG RequestStringBuilderImpl:90 - Request SOAP Message:
+21-03-2019 18:37:24 DEBUG CommonUtils:366 - Request json written to excel successfully
+21-03-2019 18:37:24 DEBUG BuildRestRequestKonyImpl:45 - Executing test case : accountSummary
+21-03-2019 18:37:25 DEBUG CommonUtils:357 - TESTCASE name written to excel successfully
+21-03-2019 18:37:25 DEBUG CommonUtils:361 - Status code written to excel successfully
+21-03-2019 18:37:25 DEBUG BuildRestRequestKonyImpl:52 - Successfully fired request
+21-03-2019 18:37:25 DEBUG CommonUtils:371 - Response json written to excel successfully
+21-03-2019 18:37:25 DEBUG AssertionBuilderImpl:24 - Starting assertions
+21-03-2019 18:37:25 INFO  AssertionBuilderImpl:51 - 2 assertions found
+21-03-2019 18:37:25 DEBUG AssertionBuilderImpl:35 - Assertions completed
+21-03-2019 18:37:25 DEBUG BuildRestRequestKonyImpl:63 - ++++++++++Testcase accountSummary completed Successfully++++++++++
+21-03-2019 18:37:25 DEBUG CommonUtils:477 - Loading test data
+21-03-2019 18:37:25 DEBUG CommonUtils:494 - Test data loaded successfully
+21-03-2019 18:37:25 DEBUG BuildRestRequestKonyImpl:34 - ++++++++++Started Testcase : ++++++++++
+21-03-2019 18:37:25 DEBUG BuildRestRequestKonyImpl:42 - ++++++++++Testcases completed with errors.++++++++++
+21-03-2019 18:37:25 INFO  AtVeryNew:39 - Execution completed for the file  accountSummary.xlsx
+21-03-2019 18:37:25 INFO  CommonUtils:416 - Started rewriting of file accountSummary.xlsx
+21-03-2019 18:37:25 INFO  CommonUtils:420 - Finished rewriting of file accountSummary.xlsx
+21-03-2019 18:37:25 INFO  AtVeryNew:30 - $$$$$$$$$Started processing of amountToBeLeftInquiry.xlsx$$$$$$$$$
+21-03-2019 18:37:25 DEBUG CommonUtils:72 - Excel sheet Loaded
+21-03-2019 18:37:25 DEBUG CommonUtils:505 - Host data properties loaded successfully
+21-03-2019 18:37:25 DEBUG CommonUtils:460 - TESTCASE header name written to excel successfully
+21-03-2019 18:37:25 DEBUG CommonUtils:463 - Status code header written to excel successfully
+21-03-2019 18:37:25 DEBUG CommonUtils:467 - Request json header written to excel successfully
+21-03-2019 18:37:25 DEBUG CommonUtils:471 - Response json header written to excel successfully
+21-03-2019 18:37:25 DEBUG CommonUtils:333 - Analysis Headers written to excel successfully
+21-03-2019 18:37:25 DEBUG CommonUtils:477 - Loading test data
+21-03-2019 18:37:25 DEBUG CommonUtils:494 - Test data loaded successfully
+21-03-2019 18:37:25 DEBUG BuildRestRequestKonyImpl:34 - ++++++++++Started Testcase : amountToBeLeftInquiry++++++++++
+21-03-2019 18:37:25 INFO  RequestBuilderKonyImpl:82 - Building SOAP request
+21-03-2019 18:37:25 DEBUG RequestStringBuilderImpl:90 - Request SOAP Message:
+21-03-2019 18:37:25 DEBUG CommonUtils:366 - Request json written to excel successfully
+21-03-2019 18:37:25 DEBUG BuildRestRequestKonyImpl:45 - Executing test case : amountToBeLeftInquiry
+21-03-2019 18:37:27 DEBUG CommonUtils:357 - TESTCASE name written to excel successfully
+21-03-2019 18:37:27 DEBUG CommonUtils:361 - Status code written to excel successfully
+21-03-2019 18:37:27 DEBUG BuildRestRequestKonyImpl:52 - Successfully fired request
+21-03-2019 18:37:27 DEBUG CommonUtils:371 - Response json written to excel successfully
+21-03-2019 18:37:27 DEBUG AssertionBuilderImpl:24 - Starting assertions
+21-03-2019 18:37:27 INFO  AssertionBuilderImpl:51 - 2 assertions found
+21-03-2019 18:37:27 DEBUG AssertionBuilderImpl:35 - Assertions completed
+21-03-2019 18:37:27 DEBUG BuildRestRequestKonyImpl:63 - ++++++++++Testcase amountToBeLeftInquiry completed Successfully++++++++++
+21-03-2019 18:37:27 DEBUG CommonUtils:477 - Loading test data
+21-03-2019 18:37:27 DEBUG CommonUtils:494 - Test data loaded successfully
+21-03-2019 18:37:27 DEBUG BuildRestRequestKonyImpl:34 - ++++++++++Started Testcase : ++++++++++
+21-03-2019 18:37:27 DEBUG BuildRestRequestKonyImpl:42 - ++++++++++Testcases completed with errors.++++++++++
+21-03-2019 18:37:27 INFO  AtVeryNew:39 - Execution completed for the file  amountToBeLeftInquiry.xlsx
+21-03-2019 18:37:27 INFO  CommonUtils:416 - Started rewriting of file amountToBeLeftInquiry.xlsx
+21-03-2019 18:37:27 INFO  CommonUtils:420 - Finished rewriting of file amountToBeLeftInquiry.xlsx
+21-03-2019 18:37:27 INFO  AtVeryNew:30 - $$$$$$$$$Started processing of amountToBeLeftUpdate.xlsx$$$$$$$$$
+21-03-2019 18:37:27 DEBUG CommonUtils:72 - Excel sheet Loaded
+21-03-2019 18:37:27 DEBUG CommonUtils:505 - Host data properties loaded successfully
+21-03-2019 18:37:27 DEBUG CommonUtils:460 - TESTCASE header name written to excel successfully
+21-03-2019 18:37:27 DEBUG CommonUtils:463 - Status code header written to excel successfully
+21-03-2019 18:37:27 DEBUG CommonUtils:467 - Request json header written to excel successfully
+21-03-2019 18:37:27 DEBUG CommonUtils:471 - Response json header written to excel successfully
+21-03-2019 18:37:27 DEBUG CommonUtils:333 - Analysis Headers written to excel successfully
+21-03-2019 18:37:27 DEBUG CommonUtils:477 - Loading test data
+21-03-2019 18:37:27 DEBUG CommonUtils:494 - Test data loaded successfully
+21-03-2019 18:37:27 DEBUG BuildRestRequestKonyImpl:34 - ++++++++++Started Testcase : amountToBeLeftUpdate++++++++++
+21-03-2019 18:37:27 INFO  RequestBuilderKonyImpl:82 - Building SOAP request
+21-03-2019 18:37:27 DEBUG RequestStringBuilderImpl:90 - Request SOAP Message:
+21-03-2019 18:37:27 DEBUG CommonUtils:366 - Request json written to excel successfully
+21-03-2019 18:37:27 DEBUG BuildRestRequestKonyImpl:45 - Executing test case : amountToBeLeftUpdate
+21-03-2019 18:37:29 DEBUG CommonUtils:357 - TESTCASE name written to excel successfully
+21-03-2019 18:37:29 DEBUG CommonUtils:361 - Status code written to excel successfully
+21-03-2019 18:37:29 DEBUG BuildRestRequestKonyImpl:52 - Successfully fired request
+21-03-2019 18:37:29 DEBUG CommonUtils:371 - Response json written to excel successfully
+21-03-2019 18:37:29 DEBUG AssertionBuilderImpl:24 - Starting assertions
+21-03-2019 18:37:29 INFO  AssertionBuilderImpl:51 - 2 assertions found
+21-03-2019 18:37:29 DEBUG AssertionBuilderImpl:35 - Assertions completed
+21-03-2019 18:37:29 DEBUG BuildRestRequestKonyImpl:63 - ++++++++++Testcase amountToBeLeftUpdate completed Successfully++++++++++
+21-03-2019 18:37:29 DEBUG CommonUtils:477 - Loading test data
+21-03-2019 18:37:29 DEBUG CommonUtils:494 - Test data loaded successfully
+21-03-2019 18:37:29 DEBUG BuildRestRequestKonyImpl:34 - ++++++++++Started Testcase : ++++++++++
+21-03-2019 18:37:29 DEBUG BuildRestRequestKonyImpl:42 - ++++++++++Testcases completed with errors.++++++++++
+21-03-2019 18:37:29 INFO  AtVeryNew:39 - Execution completed for the file  amountToBeLeftUpdate.xlsx
+21-03-2019 18:37:29 INFO  CommonUtils:416 - Started rewriting of file amountToBeLeftUpdate.xlsx
+21-03-2019 18:37:29 INFO  CommonUtils:420 - Finished rewriting of file amountToBeLeftUpdate.xlsx
+21-03-2019 18:37:29 INFO  AtVeryNew:30 - $$$$$$$$$Started processing of assignCard.xlsx$$$$$$$$$
+21-03-2019 18:37:29 DEBUG CommonUtils:72 - Excel sheet Loaded
+21-03-2019 18:37:29 DEBUG CommonUtils:505 - Host data properties loaded successfully
+21-03-2019 18:37:29 DEBUG CommonUtils:460 - TESTCASE header name written to excel successfully
+21-03-2019 18:37:29 DEBUG CommonUtils:463 - Status code header written to excel successfully
+21-03-2019 18:37:29 DEBUG CommonUtils:467 - Request json header written to excel successfully
+21-03-2019 18:37:29 DEBUG CommonUtils:471 - Response json header written to excel successfully
+21-03-2019 18:37:29 DEBUG CommonUtils:333 - Analysis Headers written to excel successfully
+21-03-2019 18:37:29 DEBUG CommonUtils:477 - Loading test data
+21-03-2019 18:37:29 DEBUG CommonUtils:494 - Test data loaded successfully
+21-03-2019 18:37:29 DEBUG BuildRestRequestKonyImpl:34 - ++++++++++Started Testcase : assignCard++++++++++
+21-03-2019 18:37:29 INFO  RequestBuilderKonyImpl:82 - Building SOAP request
+21-03-2019 18:37:29 DEBUG RequestStringBuilderImpl:90 - Request SOAP Message:
+21-03-2019 18:37:29 DEBUG CommonUtils:366 - Request json written to excel successfully
+21-03-2019 18:37:29 DEBUG BuildRestRequestKonyImpl:45 - Executing test case : assignCard
+21-03-2019 18:37:30 DEBUG CommonUtils:357 - TESTCASE name written to excel successfully
+21-03-2019 18:37:30 DEBUG CommonUtils:361 - Status code written to excel successfully
+21-03-2019 18:37:30 DEBUG BuildRestRequestKonyImpl:52 - Successfully fired request
+21-03-2019 18:37:30 DEBUG CommonUtils:371 - Response json written to excel successfully
+21-03-2019 18:37:30 DEBUG AssertionBuilderImpl:24 - Starting assertions
+21-03-2019 18:37:30 INFO  AssertionBuilderImpl:51 - 2 assertions found
+21-03-2019 18:37:30 DEBUG AssertionBuilderImpl:35 - Assertions completed
+21-03-2019 18:37:30 DEBUG BuildRestRequestKonyImpl:63 - ++++++++++Testcase assignCard completed Successfully++++++++++
+21-03-2019 18:37:30 DEBUG CommonUtils:477 - Loading test data
+21-03-2019 18:37:30 DEBUG CommonUtils:494 - Test data loaded successfully
+21-03-2019 18:37:30 DEBUG BuildRestRequestKonyImpl:34 - ++++++++++Started Testcase : ++++++++++
+21-03-2019 18:37:30 DEBUG BuildRestRequestKonyImpl:42 - ++++++++++Testcases completed with errors.++++++++++
+21-03-2019 18:37:30 INFO  AtVeryNew:39 - Execution completed for the file  assignCard.xlsx
+21-03-2019 18:37:30 INFO  CommonUtils:416 - Started rewriting of file assignCard.xlsx
+21-03-2019 18:37:30 INFO  CommonUtils:420 - Finished rewriting of file assignCard.xlsx
+21-03-2019 18:37:30 INFO  AtVeryNew:30 - $$$$$$$$$Started processing of bulkCardActivation.xlsx$$$$$$$$$
+21-03-2019 18:37:30 DEBUG CommonUtils:72 - Excel sheet Loaded
+21-03-2019 18:37:30 DEBUG CommonUtils:505 - Host data properties loaded successfully
+21-03-2019 18:37:30 DEBUG CommonUtils:460 - TESTCASE header name written to excel successfully
+21-03-2019 18:37:30 DEBUG CommonUtils:463 - Status code header written to excel successfully
+21-03-2019 18:37:30 DEBUG CommonUtils:467 - Request json header written to excel successfully
+21-03-2019 18:37:30 DEBUG CommonUtils:471 - Response json header written to excel successfully
+21-03-2019 18:37:30 DEBUG CommonUtils:333 - Analysis Headers written to excel successfully
+21-03-2019 18:37:30 DEBUG CommonUtils:477 - Loading test data
+21-03-2019 18:37:30 DEBUG CommonUtils:494 - Test data loaded successfully
+21-03-2019 18:37:30 DEBUG BuildRestRequestKonyImpl:34 - ++++++++++Started Testcase : bulkCardActivation++++++++++
+21-03-2019 18:37:30 INFO  RequestBuilderKonyImpl:82 - Building SOAP request
+21-03-2019 18:37:30 DEBUG RequestStringBuilderImpl:90 - Request SOAP Message:
+21-03-2019 18:37:30 DEBUG CommonUtils:366 - Request json written to excel successfully
+21-03-2019 18:37:30 DEBUG BuildRestRequestKonyImpl:45 - Executing test case : bulkCardActivation
+21-03-2019 18:37:31 DEBUG CommonUtils:357 - TESTCASE name written to excel successfully
+21-03-2019 18:37:31 DEBUG CommonUtils:361 - Status code written to excel successfully
+21-03-2019 18:37:31 DEBUG BuildRestRequestKonyImpl:52 - Successfully fired request
+21-03-2019 18:37:31 DEBUG CommonUtils:371 - Response json written to excel successfully
+21-03-2019 18:37:31 DEBUG AssertionBuilderImpl:24 - Starting assertions
+21-03-2019 18:37:31 INFO  AssertionBuilderImpl:51 - 2 assertions found
+21-03-2019 18:37:31 DEBUG AssertionBuilderImpl:35 - Assertions completed
+21-03-2019 18:37:31 DEBUG BuildRestRequestKonyImpl:63 - ++++++++++Testcase bulkCardActivation completed Successfully++++++++++
+21-03-2019 18:37:31 DEBUG CommonUtils:477 - Loading test data
+21-03-2019 18:37:31 DEBUG CommonUtils:494 - Test data loaded successfully
+21-03-2019 18:37:31 DEBUG BuildRestRequestKonyImpl:34 - ++++++++++Started Testcase : ++++++++++
+21-03-2019 18:37:31 DEBUG BuildRestRequestKonyImpl:42 - ++++++++++Testcases completed with errors.++++++++++
+21-03-2019 18:37:31 INFO  AtVeryNew:39 - Execution completed for the file  bulkCardActivation.xlsx
+21-03-2019 18:37:31 INFO  CommonUtils:416 - Started rewriting of file bulkCardActivation.xlsx
+21-03-2019 18:37:32 INFO  CommonUtils:420 - Finished rewriting of file bulkCardActivation.xlsx
+21-03-2019 18:37:32 INFO  AtVeryNew:30 - $$$$$$$$$Started processing of bulkCardOrder.xlsx$$$$$$$$$
+21-03-2019 18:37:32 DEBUG CommonUtils:72 - Excel sheet Loaded
+21-03-2019 18:37:32 DEBUG CommonUtils:505 - Host data properties loaded successfully
+21-03-2019 18:37:32 DEBUG CommonUtils:460 - TESTCASE header name written to excel successfully
+21-03-2019 18:37:32 DEBUG CommonUtils:463 - Status code header written to excel successfully
+21-03-2019 18:37:32 DEBUG CommonUtils:467 - Request json header written to excel successfully
+21-03-2019 18:37:32 DEBUG CommonUtils:471 - Response json header written to excel successfully
+21-03-2019 18:37:32 DEBUG CommonUtils:333 - Analysis Headers written to excel successfully
+21-03-2019 18:37:32 DEBUG CommonUtils:477 - Loading test data
+21-03-2019 18:37:32 DEBUG CommonUtils:494 - Test data loaded successfully
+21-03-2019 18:37:32 DEBUG BuildRestRequestKonyImpl:34 - ++++++++++Started Testcase : bulkCardOrder++++++++++
+21-03-2019 18:37:32 INFO  RequestBuilderKonyImpl:82 - Building SOAP request
+21-03-2019 18:37:32 DEBUG RequestStringBuilderImpl:90 - Request SOAP Message:
+21-03-2019 18:37:32 DEBUG CommonUtils:366 - Request json written to excel successfully
+21-03-2019 18:37:32 DEBUG BuildRestRequestKonyImpl:45 - Executing test case : bulkCardOrder
+21-03-2019 18:37:33 DEBUG CommonUtils:357 - TESTCASE name written to excel successfully
+21-03-2019 18:37:33 DEBUG CommonUtils:361 - Status code written to excel successfully
+21-03-2019 18:37:33 DEBUG BuildRestRequestKonyImpl:52 - Successfully fired request
+21-03-2019 18:37:33 DEBUG CommonUtils:371 - Response json written to excel successfully
+21-03-2019 18:37:33 DEBUG AssertionBuilderImpl:24 - Starting assertions
+21-03-2019 18:37:33 INFO  AssertionBuilderImpl:51 - 2 assertions found
+21-03-2019 18:37:33 DEBUG AssertionBuilderImpl:35 - Assertions completed
+21-03-2019 18:37:33 DEBUG BuildRestRequestKonyImpl:63 - ++++++++++Testcase bulkCardOrder completed Successfully++++++++++
+21-03-2019 18:37:33 DEBUG CommonUtils:477 - Loading test data
+21-03-2019 18:37:33 DEBUG CommonUtils:494 - Test data loaded successfully
+21-03-2019 18:37:33 DEBUG BuildRestRequestKonyImpl:34 - ++++++++++Started Testcase : ++++++++++
+21-03-2019 18:37:33 DEBUG BuildRestRequestKonyImpl:42 - ++++++++++Testcases completed with errors.++++++++++
+21-03-2019 18:37:33 INFO  AtVeryNew:39 - Execution completed for the file  bulkCardOrder.xlsx
+21-03-2019 18:37:33 INFO  CommonUtils:416 - Started rewriting of file bulkCardOrder.xlsx
+21-03-2019 18:37:33 INFO  CommonUtils:420 - Finished rewriting of file bulkCardOrder.xlsx
+21-03-2019 18:37:33 INFO  AtVeryNew:30 - $$$$$$$$$Started processing of bulkLoad.xlsx$$$$$$$$$
+21-03-2019 18:37:33 DEBUG CommonUtils:72 - Excel sheet Loaded
+21-03-2019 18:37:33 DEBUG CommonUtils:505 - Host data properties loaded successfully
+21-03-2019 18:37:33 DEBUG CommonUtils:460 - TESTCASE header name written to excel successfully
+21-03-2019 18:37:33 DEBUG CommonUtils:463 - Status code header written to excel successfully
+21-03-2019 18:37:33 DEBUG CommonUtils:467 - Request json header written to excel successfully
+21-03-2019 18:37:33 DEBUG CommonUtils:471 - Response json header written to excel successfully
+21-03-2019 18:37:33 DEBUG CommonUtils:333 - Analysis Headers written to excel successfully
+21-03-2019 18:37:33 DEBUG CommonUtils:477 - Loading test data
+21-03-2019 18:37:33 DEBUG CommonUtils:494 - Test data loaded successfully
+21-03-2019 18:37:33 DEBUG BuildRestRequestKonyImpl:34 - ++++++++++Started Testcase : bulkLoad++++++++++
+21-03-2019 18:37:33 INFO  RequestBuilderKonyImpl:82 - Building SOAP request
+21-03-2019 18:37:33 DEBUG RequestStringBuilderImpl:90 - Request SOAP Message:
+21-03-2019 18:37:33 DEBUG CommonUtils:366 - Request json written to excel successfully
+21-03-2019 18:37:33 DEBUG BuildRestRequestKonyImpl:45 - Executing test case : bulkLoad
+21-03-2019 18:37:34 DEBUG CommonUtils:357 - TESTCASE name written to excel successfully
+21-03-2019 18:37:34 DEBUG CommonUtils:361 - Status code written to excel successfully
+21-03-2019 18:37:34 DEBUG BuildRestRequestKonyImpl:52 - Successfully fired request
+21-03-2019 18:37:34 DEBUG CommonUtils:371 - Response json written to excel successfully
+21-03-2019 18:37:34 DEBUG AssertionBuilderImpl:24 - Starting assertions
+21-03-2019 18:37:34 INFO  AssertionBuilderImpl:51 - 2 assertions found
+21-03-2019 18:37:34 DEBUG AssertionBuilderImpl:35 - Assertions completed
+21-03-2019 18:37:34 DEBUG BuildRestRequestKonyImpl:63 - ++++++++++Testcase bulkLoad completed Successfully++++++++++
+21-03-2019 18:37:34 DEBUG CommonUtils:477 - Loading test data
+21-03-2019 18:37:34 DEBUG CommonUtils:494 - Test data loaded successfully
+21-03-2019 18:37:34 DEBUG BuildRestRequestKonyImpl:34 - ++++++++++Started Testcase : ++++++++++
+21-03-2019 18:37:34 DEBUG BuildRestRequestKonyImpl:42 - ++++++++++Testcases completed with errors.++++++++++
+21-03-2019 18:37:34 INFO  AtVeryNew:39 - Execution completed for the file  bulkLoad.xlsx
+21-03-2019 18:37:34 INFO  CommonUtils:416 - Started rewriting of file bulkLoad.xlsx
+21-03-2019 18:37:34 INFO  CommonUtils:420 - Finished rewriting of file bulkLoad.xlsx
+21-03-2019 18:37:34 INFO  AtVeryNew:30 - $$$$$$$$$Started processing of cardholderCardList.xlsx$$$$$$$$$
+21-03-2019 18:37:34 DEBUG CommonUtils:72 - Excel sheet Loaded
+21-03-2019 18:37:34 DEBUG CommonUtils:505 - Host data properties loaded successfully
+21-03-2019 18:37:34 DEBUG CommonUtils:460 - TESTCASE header name written to excel successfully
+21-03-2019 18:37:34 DEBUG CommonUtils:463 - Status code header written to excel successfully
+21-03-2019 18:37:34 DEBUG CommonUtils:467 - Request json header written to excel successfully
+21-03-2019 18:37:34 DEBUG CommonUtils:471 - Response json header written to excel successfully
+21-03-2019 18:37:34 DEBUG CommonUtils:333 - Analysis Headers written to excel successfully
+21-03-2019 18:37:34 DEBUG CommonUtils:477 - Loading test data
+21-03-2019 18:37:34 DEBUG CommonUtils:494 - Test data loaded successfully
+21-03-2019 18:37:34 DEBUG BuildRestRequestKonyImpl:34 - ++++++++++Started Testcase : cardholderCardList++++++++++
+21-03-2019 18:37:34 INFO  RequestBuilderKonyImpl:82 - Building SOAP request
+21-03-2019 18:37:34 DEBUG RequestStringBuilderImpl:90 - Request SOAP Message:
+21-03-2019 18:37:34 DEBUG CommonUtils:366 - Request json written to excel successfully
+21-03-2019 18:37:34 DEBUG BuildRestRequestKonyImpl:45 - Executing test case : cardholderCardList
+21-03-2019 18:37:35 DEBUG CommonUtils:357 - TESTCASE name written to excel successfully
+21-03-2019 18:37:35 DEBUG CommonUtils:361 - Status code written to excel successfully
+21-03-2019 18:37:35 DEBUG BuildRestRequestKonyImpl:52 - Successfully fired request
+21-03-2019 18:37:35 DEBUG CommonUtils:371 - Response json written to excel successfully
+21-03-2019 18:37:35 DEBUG AssertionBuilderImpl:24 - Starting assertions
+21-03-2019 18:37:35 INFO  AssertionBuilderImpl:51 - 2 assertions found
+21-03-2019 18:37:35 DEBUG AssertionBuilderImpl:35 - Assertions completed
+21-03-2019 18:37:35 DEBUG BuildRestRequestKonyImpl:63 - ++++++++++Testcase cardholderCardList completed Successfully++++++++++
+21-03-2019 18:37:35 DEBUG CommonUtils:477 - Loading test data
+21-03-2019 18:37:35 DEBUG CommonUtils:494 - Test data loaded successfully
+21-03-2019 18:37:35 DEBUG BuildRestRequestKonyImpl:34 - ++++++++++Started Testcase : ++++++++++
+21-03-2019 18:37:35 DEBUG BuildRestRequestKonyImpl:42 - ++++++++++Testcases completed with errors.++++++++++
+21-03-2019 18:37:35 INFO  AtVeryNew:39 - Execution completed for the file  cardholderCardList.xlsx
+21-03-2019 18:37:35 INFO  CommonUtils:416 - Started rewriting of file cardholderCardList.xlsx
+21-03-2019 18:37:35 INFO  CommonUtils:420 - Finished rewriting of file cardholderCardList.xlsx
+21-03-2019 18:37:35 INFO  AtVeryNew:30 - $$$$$$$$$Started processing of cardholderInquiry.xlsx$$$$$$$$$
+21-03-2019 18:37:35 DEBUG CommonUtils:72 - Excel sheet Loaded
+21-03-2019 18:37:35 DEBUG CommonUtils:505 - Host data properties loaded successfully
+21-03-2019 18:37:35 DEBUG CommonUtils:460 - TESTCASE header name written to excel successfully
+21-03-2019 18:37:35 DEBUG CommonUtils:463 - Status code header written to excel successfully
+21-03-2019 18:37:35 DEBUG CommonUtils:467 - Request json header written to excel successfully
+21-03-2019 18:37:35 DEBUG CommonUtils:471 - Response json header written to excel successfully
+21-03-2019 18:37:35 DEBUG CommonUtils:333 - Analysis Headers written to excel successfully
+21-03-2019 18:37:35 DEBUG CommonUtils:477 - Loading test data
+21-03-2019 18:37:35 DEBUG CommonUtils:494 - Test data loaded successfully
+21-03-2019 18:37:35 DEBUG BuildRestRequestKonyImpl:34 - ++++++++++Started Testcase : cardholderInquiry++++++++++
+21-03-2019 18:37:35 INFO  RequestBuilderKonyImpl:82 - Building SOAP request
+21-03-2019 18:37:35 DEBUG RequestStringBuilderImpl:90 - Request SOAP Message:
+21-03-2019 18:37:35 DEBUG CommonUtils:366 - Request json written to excel successfully
+21-03-2019 18:37:35 DEBUG BuildRestRequestKonyImpl:45 - Executing test case : cardholderInquiry
+21-03-2019 18:37:37 DEBUG CommonUtils:357 - TESTCASE name written to excel successfully
+21-03-2019 18:37:37 DEBUG CommonUtils:361 - Status code written to excel successfully
+21-03-2019 18:37:37 DEBUG BuildRestRequestKonyImpl:52 - Successfully fired request
+21-03-2019 18:37:37 DEBUG CommonUtils:371 - Response json written to excel successfully
+21-03-2019 18:37:37 DEBUG AssertionBuilderImpl:24 - Starting assertions
+21-03-2019 18:37:37 INFO  AssertionBuilderImpl:51 - 2 assertions found
+21-03-2019 18:37:37 DEBUG AssertionBuilderImpl:35 - Assertions completed
+21-03-2019 18:37:37 DEBUG BuildRestRequestKonyImpl:63 - ++++++++++Testcase cardholderInquiry completed Successfully++++++++++
+21-03-2019 18:37:37 DEBUG CommonUtils:477 - Loading test data
+21-03-2019 18:37:37 DEBUG CommonUtils:494 - Test data loaded successfully
+21-03-2019 18:37:37 DEBUG BuildRestRequestKonyImpl:34 - ++++++++++Started Testcase : ++++++++++
+21-03-2019 18:37:37 DEBUG BuildRestRequestKonyImpl:42 - ++++++++++Testcases completed with errors.++++++++++
+21-03-2019 18:37:37 INFO  AtVeryNew:39 - Execution completed for the file  cardholderInquiry.xlsx
+21-03-2019 18:37:37 INFO  CommonUtils:416 - Started rewriting of file cardholderInquiry.xlsx
+21-03-2019 18:37:37 INFO  CommonUtils:420 - Finished rewriting of file cardholderInquiry.xlsx
+21-03-2019 18:37:37 INFO  AtVeryNew:30 - $$$$$$$$$Started processing of cardholderList.xlsx$$$$$$$$$
+21-03-2019 18:37:37 DEBUG CommonUtils:72 - Excel sheet Loaded
+21-03-2019 18:37:37 DEBUG CommonUtils:505 - Host data properties loaded successfully
+21-03-2019 18:37:37 DEBUG CommonUtils:460 - TESTCASE header name written to excel successfully
+21-03-2019 18:37:37 DEBUG CommonUtils:463 - Status code header written to excel successfully
+21-03-2019 18:37:37 DEBUG CommonUtils:467 - Request json header written to excel successfully
+21-03-2019 18:37:37 DEBUG CommonUtils:471 - Response json header written to excel successfully
+21-03-2019 18:37:37 DEBUG CommonUtils:333 - Analysis Headers written to excel successfully
+21-03-2019 18:37:37 DEBUG CommonUtils:477 - Loading test data
+21-03-2019 18:37:37 DEBUG CommonUtils:494 - Test data loaded successfully
+21-03-2019 18:37:37 DEBUG BuildRestRequestKonyImpl:34 - ++++++++++Started Testcase : cardholderList++++++++++
+21-03-2019 18:37:37 INFO  RequestBuilderKonyImpl:82 - Building SOAP request
+21-03-2019 18:37:37 DEBUG RequestStringBuilderImpl:90 - Request SOAP Message:
+21-03-2019 18:37:37 DEBUG CommonUtils:366 - Request json written to excel successfully
+21-03-2019 18:37:37 DEBUG BuildRestRequestKonyImpl:45 - Executing test case : cardholderList
+21-03-2019 18:37:38 DEBUG CommonUtils:357 - TESTCASE name written to excel successfully
+21-03-2019 18:37:38 DEBUG CommonUtils:361 - Status code written to excel successfully
+21-03-2019 18:37:38 DEBUG BuildRestRequestKonyImpl:52 - Successfully fired request
+21-03-2019 18:37:38 DEBUG CommonUtils:371 - Response json written to excel successfully
+21-03-2019 18:37:38 DEBUG AssertionBuilderImpl:24 - Starting assertions
+21-03-2019 18:37:38 INFO  AssertionBuilderImpl:51 - 2 assertions found
+21-03-2019 18:37:38 DEBUG AssertionBuilderImpl:35 - Assertions completed
+21-03-2019 18:37:38 DEBUG BuildRestRequestKonyImpl:63 - ++++++++++Testcase cardholderList completed Successfully++++++++++
+21-03-2019 18:37:38 DEBUG CommonUtils:477 - Loading test data
+21-03-2019 18:37:38 DEBUG CommonUtils:494 - Test data loaded successfully
+21-03-2019 18:37:38 DEBUG BuildRestRequestKonyImpl:34 - ++++++++++Started Testcase : ++++++++++
+21-03-2019 18:37:38 DEBUG BuildRestRequestKonyImpl:42 - ++++++++++Testcases completed with errors.++++++++++
+21-03-2019 18:37:38 INFO  AtVeryNew:39 - Execution completed for the file  cardholderList.xlsx
+21-03-2019 18:37:38 INFO  CommonUtils:416 - Started rewriting of file cardholderList.xlsx
+21-03-2019 18:37:38 INFO  CommonUtils:420 - Finished rewriting of file cardholderList.xlsx
+21-03-2019 18:37:38 INFO  AtVeryNew:30 - $$$$$$$$$Started processing of cardholderReferenceNumberInquiry.xlsx$$$$$$$$$
+21-03-2019 18:37:38 DEBUG CommonUtils:72 - Excel sheet Loaded
+21-03-2019 18:37:38 DEBUG CommonUtils:505 - Host data properties loaded successfully
+21-03-2019 18:37:38 DEBUG CommonUtils:460 - TESTCASE header name written to excel successfully
+21-03-2019 18:37:38 DEBUG CommonUtils:463 - Status code header written to excel successfully
+21-03-2019 18:37:38 DEBUG CommonUtils:467 - Request json header written to excel successfully
+21-03-2019 18:37:38 DEBUG CommonUtils:471 - Response json header written to excel successfully
+21-03-2019 18:37:38 DEBUG CommonUtils:333 - Analysis Headers written to excel successfully
+21-03-2019 18:37:38 DEBUG CommonUtils:477 - Loading test data
+21-03-2019 18:37:38 DEBUG CommonUtils:494 - Test data loaded successfully
+21-03-2019 18:37:38 DEBUG BuildRestRequestKonyImpl:34 - ++++++++++Started Testcase : cardholderReferenceNumberInquiry++++++++++
+21-03-2019 18:37:38 INFO  RequestBuilderKonyImpl:82 - Building SOAP request
+21-03-2019 18:37:38 DEBUG RequestStringBuilderImpl:90 - Request SOAP Message:
+21-03-2019 18:37:38 DEBUG CommonUtils:366 - Request json written to excel successfully
+21-03-2019 18:37:38 DEBUG BuildRestRequestKonyImpl:45 - Executing test case : cardholderReferenceNumberInquiry
+21-03-2019 18:37:39 DEBUG CommonUtils:357 - TESTCASE name written to excel successfully
+21-03-2019 18:37:39 DEBUG CommonUtils:361 - Status code written to excel successfully
+21-03-2019 18:37:39 DEBUG BuildRestRequestKonyImpl:52 - Successfully fired request
+21-03-2019 18:37:39 DEBUG CommonUtils:371 - Response json written to excel successfully
+21-03-2019 18:37:39 DEBUG AssertionBuilderImpl:24 - Starting assertions
+21-03-2019 18:37:39 INFO  AssertionBuilderImpl:51 - 2 assertions found
+21-03-2019 18:37:39 DEBUG AssertionBuilderImpl:35 - Assertions completed
+21-03-2019 18:37:39 DEBUG BuildRestRequestKonyImpl:63 - ++++++++++Testcase cardholderReferenceNumberInquiry completed Successfully++++++++++
+21-03-2019 18:37:39 DEBUG CommonUtils:477 - Loading test data
+21-03-2019 18:37:39 DEBUG CommonUtils:494 - Test data loaded successfully
+21-03-2019 18:37:39 DEBUG BuildRestRequestKonyImpl:34 - ++++++++++Started Testcase : ++++++++++
+21-03-2019 18:37:39 DEBUG BuildRestRequestKonyImpl:42 - ++++++++++Testcases completed with errors.++++++++++
+21-03-2019 18:37:39 INFO  AtVeryNew:39 - Execution completed for the file  cardholderReferenceNumberInquiry.xlsx
+21-03-2019 18:37:39 INFO  CommonUtils:416 - Started rewriting of file cardholderReferenceNumberInquiry.xlsx
+21-03-2019 18:37:39 INFO  CommonUtils:420 - Finished rewriting of file cardholderReferenceNumberInquiry.xlsx
+21-03-2019 18:37:39 INFO  AtVeryNew:30 - $$$$$$$$$Started processing of contractInquiry.xlsx$$$$$$$$$
+21-03-2019 18:37:39 DEBUG CommonUtils:72 - Excel sheet Loaded
+21-03-2019 18:37:39 DEBUG CommonUtils:505 - Host data properties loaded successfully
+21-03-2019 18:37:39 DEBUG CommonUtils:460 - TESTCASE header name written to excel successfully
+21-03-2019 18:37:39 DEBUG CommonUtils:463 - Status code header written to excel successfully
+21-03-2019 18:37:39 DEBUG CommonUtils:467 - Request json header written to excel successfully
+21-03-2019 18:37:39 DEBUG CommonUtils:471 - Response json header written to excel successfully
+21-03-2019 18:37:39 DEBUG CommonUtils:333 - Analysis Headers written to excel successfully
+21-03-2019 18:37:39 DEBUG CommonUtils:477 - Loading test data
+21-03-2019 18:37:39 DEBUG CommonUtils:494 - Test data loaded successfully
+21-03-2019 18:37:39 DEBUG BuildRestRequestKonyImpl:34 - ++++++++++Started Testcase : contractInquiry++++++++++
+21-03-2019 18:37:39 INFO  RequestBuilderKonyImpl:82 - Building SOAP request
+21-03-2019 18:37:39 DEBUG RequestStringBuilderImpl:90 - Request SOAP Message:
+21-03-2019 18:37:39 DEBUG CommonUtils:366 - Request json written to excel successfully
+21-03-2019 18:37:39 DEBUG BuildRestRequestKonyImpl:45 - Executing test case : contractInquiry
+21-03-2019 18:37:41 DEBUG CommonUtils:357 - TESTCASE name written to excel successfully
+21-03-2019 18:37:41 DEBUG CommonUtils:361 - Status code written to excel successfully
+21-03-2019 18:37:41 DEBUG BuildRestRequestKonyImpl:52 - Successfully fired request
+21-03-2019 18:37:41 DEBUG CommonUtils:371 - Response json written to excel successfully
+21-03-2019 18:37:41 DEBUG AssertionBuilderImpl:24 - Starting assertions
+21-03-2019 18:37:41 INFO  AssertionBuilderImpl:51 - 2 assertions found
+21-03-2019 18:37:41 DEBUG AssertionBuilderImpl:35 - Assertions completed
+21-03-2019 18:37:41 DEBUG BuildRestRequestKonyImpl:63 - ++++++++++Testcase contractInquiry completed Successfully++++++++++
+21-03-2019 18:37:41 DEBUG CommonUtils:477 - Loading test data
+21-03-2019 18:37:41 DEBUG CommonUtils:494 - Test data loaded successfully
+21-03-2019 18:37:41 DEBUG BuildRestRequestKonyImpl:34 - ++++++++++Started Testcase : ++++++++++
+21-03-2019 18:37:41 DEBUG BuildRestRequestKonyImpl:42 - ++++++++++Testcases completed with errors.++++++++++
+21-03-2019 18:37:41 INFO  AtVeryNew:39 - Execution completed for the file  contractInquiry.xlsx
+21-03-2019 18:37:41 INFO  CommonUtils:416 - Started rewriting of file contractInquiry.xlsx
+21-03-2019 18:37:41 INFO  CommonUtils:420 - Finished rewriting of file contractInquiry.xlsx
+21-03-2019 18:37:41 INFO  AtVeryNew:30 - $$$$$$$$$Started processing of directDepositDelete.xlsx$$$$$$$$$
+21-03-2019 18:37:41 DEBUG CommonUtils:72 - Excel sheet Loaded
+21-03-2019 18:37:41 DEBUG CommonUtils:505 - Host data properties loaded successfully
+21-03-2019 18:37:41 DEBUG CommonUtils:460 - TESTCASE header name written to excel successfully
+21-03-2019 18:37:41 DEBUG CommonUtils:463 - Status code header written to excel successfully
+21-03-2019 18:37:41 DEBUG CommonUtils:467 - Request json header written to excel successfully
+21-03-2019 18:37:41 DEBUG CommonUtils:471 - Response json header written to excel successfully
+21-03-2019 18:37:41 DEBUG CommonUtils:333 - Analysis Headers written to excel successfully
+21-03-2019 18:37:41 DEBUG CommonUtils:477 - Loading test data
+21-03-2019 18:37:41 DEBUG CommonUtils:494 - Test data loaded successfully
+21-03-2019 18:37:41 DEBUG BuildRestRequestKonyImpl:34 - ++++++++++Started Testcase : directDepositDelete++++++++++
+21-03-2019 18:37:41 INFO  RequestBuilderKonyImpl:82 - Building SOAP request
+21-03-2019 18:37:41 DEBUG RequestStringBuilderImpl:90 - Request SOAP Message:
+21-03-2019 18:37:41 DEBUG CommonUtils:366 - Request json written to excel successfully
+21-03-2019 18:37:41 DEBUG BuildRestRequestKonyImpl:45 - Executing test case : directDepositDelete
+21-03-2019 18:37:42 DEBUG CommonUtils:357 - TESTCASE name written to excel successfully
+21-03-2019 18:37:42 DEBUG CommonUtils:361 - Status code written to excel successfully
+21-03-2019 18:37:42 DEBUG BuildRestRequestKonyImpl:52 - Successfully fired request
+21-03-2019 18:37:42 DEBUG CommonUtils:371 - Response json written to excel successfully
+21-03-2019 18:37:42 DEBUG AssertionBuilderImpl:24 - Starting assertions
+21-03-2019 18:37:42 INFO  AssertionBuilderImpl:51 - 2 assertions found
+21-03-2019 18:37:42 DEBUG AssertionBuilderImpl:35 - Assertions completed
+21-03-2019 18:37:42 DEBUG BuildRestRequestKonyImpl:63 - ++++++++++Testcase directDepositDelete completed Successfully++++++++++
+21-03-2019 18:37:42 DEBUG CommonUtils:477 - Loading test data
+21-03-2019 18:37:42 DEBUG CommonUtils:494 - Test data loaded successfully
+21-03-2019 18:37:42 DEBUG BuildRestRequestKonyImpl:34 - ++++++++++Started Testcase : ++++++++++
+21-03-2019 18:37:42 DEBUG BuildRestRequestKonyImpl:42 - ++++++++++Testcases completed with errors.++++++++++
+21-03-2019 18:37:42 INFO  AtVeryNew:39 - Execution completed for the file  directDepositDelete.xlsx
+21-03-2019 18:37:42 INFO  CommonUtils:416 - Started rewriting of file directDepositDelete.xlsx
+21-03-2019 18:37:42 INFO  CommonUtils:420 - Finished rewriting of file directDepositDelete.xlsx
+21-03-2019 18:37:42 INFO  AtVeryNew:30 - $$$$$$$$$Started processing of directDepositList.xlsx$$$$$$$$$
+21-03-2019 18:37:42 DEBUG CommonUtils:72 - Excel sheet Loaded
+21-03-2019 18:37:42 DEBUG CommonUtils:505 - Host data properties loaded successfully
+21-03-2019 18:37:42 DEBUG CommonUtils:460 - TESTCASE header name written to excel successfully
+21-03-2019 18:37:42 DEBUG CommonUtils:463 - Status code header written to excel successfully
+21-03-2019 18:37:42 DEBUG CommonUtils:467 - Request json header written to excel successfully
+21-03-2019 18:37:42 DEBUG CommonUtils:471 - Response json header written to excel successfully
+21-03-2019 18:37:42 DEBUG CommonUtils:333 - Analysis Headers written to excel successfully
+21-03-2019 18:37:42 DEBUG CommonUtils:477 - Loading test data
+21-03-2019 18:37:42 DEBUG CommonUtils:494 - Test data loaded successfully
+21-03-2019 18:37:42 DEBUG BuildRestRequestKonyImpl:34 - ++++++++++Started Testcase : directDepositList++++++++++
+21-03-2019 18:37:42 INFO  RequestBuilderKonyImpl:82 - Building SOAP request
+21-03-2019 18:37:42 DEBUG RequestStringBuilderImpl:90 - Request SOAP Message:
+21-03-2019 18:37:42 DEBUG CommonUtils:366 - Request json written to excel successfully
+21-03-2019 18:37:42 DEBUG BuildRestRequestKonyImpl:45 - Executing test case : directDepositList
+21-03-2019 18:37:43 DEBUG CommonUtils:357 - TESTCASE name written to excel successfully
+21-03-2019 18:37:43 DEBUG CommonUtils:361 - Status code written to excel successfully
+21-03-2019 18:37:43 DEBUG BuildRestRequestKonyImpl:52 - Successfully fired request
+21-03-2019 18:37:43 DEBUG CommonUtils:371 - Response json written to excel successfully
+21-03-2019 18:37:43 DEBUG AssertionBuilderImpl:24 - Starting assertions
+21-03-2019 18:37:43 INFO  AssertionBuilderImpl:51 - 2 assertions found
+21-03-2019 18:37:43 DEBUG AssertionBuilderImpl:35 - Assertions completed
+21-03-2019 18:37:43 DEBUG BuildRestRequestKonyImpl:63 - ++++++++++Testcase directDepositList completed Successfully++++++++++
+21-03-2019 18:37:43 DEBUG CommonUtils:477 - Loading test data
+21-03-2019 18:37:43 DEBUG CommonUtils:494 - Test data loaded successfully
+21-03-2019 18:37:43 DEBUG BuildRestRequestKonyImpl:34 - ++++++++++Started Testcase : ++++++++++
+21-03-2019 18:37:43 DEBUG BuildRestRequestKonyImpl:42 - ++++++++++Testcases completed with errors.++++++++++
+21-03-2019 18:37:43 INFO  AtVeryNew:39 - Execution completed for the file  directDepositList.xlsx
+21-03-2019 18:37:43 INFO  CommonUtils:416 - Started rewriting of file directDepositList.xlsx
+21-03-2019 18:37:43 INFO  CommonUtils:420 - Finished rewriting of file directDepositList.xlsx
+21-03-2019 18:37:43 INFO  AtVeryNew:30 - $$$$$$$$$Started processing of directDepositUpdate.xlsx$$$$$$$$$
+21-03-2019 18:37:43 DEBUG CommonUtils:72 - Excel sheet Loaded
+21-03-2019 18:37:43 DEBUG CommonUtils:505 - Host data properties loaded successfully
+21-03-2019 18:37:43 DEBUG CommonUtils:460 - TESTCASE header name written to excel successfully
+21-03-2019 18:37:43 DEBUG CommonUtils:463 - Status code header written to excel successfully
+21-03-2019 18:37:43 DEBUG CommonUtils:467 - Request json header written to excel successfully
+21-03-2019 18:37:43 DEBUG CommonUtils:471 - Response json header written to excel successfully
+21-03-2019 18:37:43 DEBUG CommonUtils:333 - Analysis Headers written to excel successfully
+21-03-2019 18:37:43 DEBUG CommonUtils:477 - Loading test data
+21-03-2019 18:37:43 DEBUG CommonUtils:494 - Test data loaded successfully
+21-03-2019 18:37:43 DEBUG BuildRestRequestKonyImpl:34 - ++++++++++Started Testcase : directDepositUpdate++++++++++
+21-03-2019 18:37:43 INFO  RequestBuilderKonyImpl:82 - Building SOAP request
+21-03-2019 18:37:43 DEBUG RequestStringBuilderImpl:90 - Request SOAP Message:
+21-03-2019 18:37:43 DEBUG CommonUtils:366 - Request json written to excel successfully
+21-03-2019 18:37:43 DEBUG BuildRestRequestKonyImpl:45 - Executing test case : directDepositUpdate
+21-03-2019 18:37:45 DEBUG CommonUtils:357 - TESTCASE name written to excel successfully
+21-03-2019 18:37:45 DEBUG CommonUtils:361 - Status code written to excel successfully
+21-03-2019 18:37:45 DEBUG BuildRestRequestKonyImpl:52 - Successfully fired request
+21-03-2019 18:37:45 DEBUG CommonUtils:371 - Response json written to excel successfully
+21-03-2019 18:37:45 DEBUG AssertionBuilderImpl:24 - Starting assertions
+21-03-2019 18:37:45 INFO  AssertionBuilderImpl:51 - 2 assertions found
+21-03-2019 18:37:45 DEBUG AssertionBuilderImpl:35 - Assertions completed
+21-03-2019 18:37:45 DEBUG BuildRestRequestKonyImpl:63 - ++++++++++Testcase directDepositUpdate completed Successfully++++++++++
+21-03-2019 18:37:45 DEBUG CommonUtils:477 - Loading test data
+21-03-2019 18:37:45 DEBUG CommonUtils:494 - Test data loaded successfully
+21-03-2019 18:37:45 DEBUG BuildRestRequestKonyImpl:34 - ++++++++++Started Testcase : ++++++++++
+21-03-2019 18:37:45 DEBUG BuildRestRequestKonyImpl:42 - ++++++++++Testcases completed with errors.++++++++++
+21-03-2019 18:37:45 INFO  AtVeryNew:39 - Execution completed for the file  directDepositUpdate.xlsx
+21-03-2019 18:37:45 INFO  CommonUtils:416 - Started rewriting of file directDepositUpdate.xlsx
+21-03-2019 18:37:45 INFO  CommonUtils:420 - Finished rewriting of file directDepositUpdate.xlsx
+21-03-2019 18:37:45 INFO  AtVeryNew:30 - $$$$$$$$$Started processing of fetchInventoryReport.xlsx$$$$$$$$$
+21-03-2019 18:37:45 DEBUG CommonUtils:72 - Excel sheet Loaded
+21-03-2019 18:37:45 DEBUG CommonUtils:505 - Host data properties loaded successfully
+21-03-2019 18:37:45 DEBUG CommonUtils:460 - TESTCASE header name written to excel successfully
+21-03-2019 18:37:45 DEBUG CommonUtils:463 - Status code header written to excel successfully
+21-03-2019 18:37:45 DEBUG CommonUtils:467 - Request json header written to excel successfully
+21-03-2019 18:37:45 DEBUG CommonUtils:471 - Response json header written to excel successfully
+21-03-2019 18:37:45 DEBUG CommonUtils:333 - Analysis Headers written to excel successfully
+21-03-2019 18:37:45 DEBUG CommonUtils:477 - Loading test data
+21-03-2019 18:37:45 DEBUG CommonUtils:494 - Test data loaded successfully
+21-03-2019 18:37:45 DEBUG BuildRestRequestKonyImpl:34 - ++++++++++Started Testcase : fetchInventoryReport++++++++++
+21-03-2019 18:37:45 INFO  RequestBuilderKonyImpl:82 - Building SOAP request
+21-03-2019 18:37:45 DEBUG RequestStringBuilderImpl:90 - Request SOAP Message:
+21-03-2019 18:37:45 DEBUG CommonUtils:366 - Request json written to excel successfully
+21-03-2019 18:37:45 DEBUG BuildRestRequestKonyImpl:45 - Executing test case : fetchInventoryReport
+21-03-2019 18:37:46 DEBUG CommonUtils:357 - TESTCASE name written to excel successfully
+21-03-2019 18:37:46 DEBUG CommonUtils:361 - Status code written to excel successfully
+21-03-2019 18:37:46 DEBUG BuildRestRequestKonyImpl:52 - Successfully fired request
+21-03-2019 18:37:46 DEBUG CommonUtils:371 - Response json written to excel successfully
+21-03-2019 18:37:46 DEBUG AssertionBuilderImpl:24 - Starting assertions
+21-03-2019 18:37:46 INFO  AssertionBuilderImpl:51 - 2 assertions found
+21-03-2019 18:37:46 DEBUG AssertionBuilderImpl:35 - Assertions completed
+21-03-2019 18:37:46 DEBUG BuildRestRequestKonyImpl:63 - ++++++++++Testcase fetchInventoryReport completed Successfully++++++++++
+21-03-2019 18:37:46 DEBUG CommonUtils:477 - Loading test data
+21-03-2019 18:37:46 DEBUG CommonUtils:494 - Test data loaded successfully
+21-03-2019 18:37:46 DEBUG BuildRestRequestKonyImpl:34 - ++++++++++Started Testcase : ++++++++++
+21-03-2019 18:37:46 DEBUG BuildRestRequestKonyImpl:42 - ++++++++++Testcases completed with errors.++++++++++
+21-03-2019 18:37:46 INFO  AtVeryNew:39 - Execution completed for the file  fetchInventoryReport.xlsx
+21-03-2019 18:37:46 INFO  CommonUtils:416 - Started rewriting of file fetchInventoryReport.xlsx
+21-03-2019 18:37:46 INFO  CommonUtils:420 - Finished rewriting of file fetchInventoryReport.xlsx
+21-03-2019 18:37:46 INFO  AtVeryNew:30 - $$$$$$$$$Started processing of giftCardActivation.xlsx$$$$$$$$$
+21-03-2019 18:37:46 DEBUG CommonUtils:72 - Excel sheet Loaded
+21-03-2019 18:37:46 DEBUG CommonUtils:505 - Host data properties loaded successfully
+21-03-2019 18:37:46 DEBUG CommonUtils:460 - TESTCASE header name written to excel successfully
+21-03-2019 18:37:46 DEBUG CommonUtils:463 - Status code header written to excel successfully
+21-03-2019 18:37:46 DEBUG CommonUtils:467 - Request json header written to excel successfully
+21-03-2019 18:37:46 DEBUG CommonUtils:471 - Response json header written to excel successfully
+21-03-2019 18:37:46 DEBUG CommonUtils:333 - Analysis Headers written to excel successfully
+21-03-2019 18:37:46 DEBUG CommonUtils:477 - Loading test data
+21-03-2019 18:37:46 DEBUG CommonUtils:494 - Test data loaded successfully
+21-03-2019 18:37:46 DEBUG BuildRestRequestKonyImpl:34 - ++++++++++Started Testcase : giftCardActivation++++++++++
+21-03-2019 18:37:46 INFO  RequestBuilderKonyImpl:82 - Building SOAP request
+21-03-2019 18:37:46 DEBUG RequestStringBuilderImpl:90 - Request SOAP Message:
+21-03-2019 18:37:46 DEBUG CommonUtils:366 - Request json written to excel successfully
+21-03-2019 18:37:46 DEBUG BuildRestRequestKonyImpl:45 - Executing test case : giftCardActivation
+21-03-2019 18:37:47 DEBUG CommonUtils:357 - TESTCASE name written to excel successfully
+21-03-2019 18:37:47 DEBUG CommonUtils:361 - Status code written to excel successfully
+21-03-2019 18:37:47 DEBUG BuildRestRequestKonyImpl:52 - Successfully fired request
+21-03-2019 18:37:47 DEBUG CommonUtils:371 - Response json written to excel successfully
+21-03-2019 18:37:47 DEBUG AssertionBuilderImpl:24 - Starting assertions
+21-03-2019 18:37:47 INFO  AssertionBuilderImpl:51 - 2 assertions found
+21-03-2019 18:37:47 DEBUG AssertionBuilderImpl:35 - Assertions completed
+21-03-2019 18:37:47 DEBUG BuildRestRequestKonyImpl:63 - ++++++++++Testcase giftCardActivation completed Successfully++++++++++
+21-03-2019 18:37:47 DEBUG CommonUtils:477 - Loading test data
+21-03-2019 18:37:47 DEBUG CommonUtils:494 - Test data loaded successfully
+21-03-2019 18:37:47 DEBUG BuildRestRequestKonyImpl:34 - ++++++++++Started Testcase : ++++++++++
+21-03-2019 18:37:47 DEBUG BuildRestRequestKonyImpl:42 - ++++++++++Testcases completed with errors.++++++++++
+21-03-2019 18:37:47 INFO  AtVeryNew:39 - Execution completed for the file  giftCardActivation.xlsx
+21-03-2019 18:37:47 INFO  CommonUtils:416 - Started rewriting of file giftCardActivation.xlsx
+21-03-2019 18:37:47 INFO  CommonUtils:420 - Finished rewriting of file giftCardActivation.xlsx
+21-03-2019 18:37:47 INFO  AtVeryNew:30 - $$$$$$$$$Started processing of isGiftCard.xlsx$$$$$$$$$
+21-03-2019 18:37:47 DEBUG CommonUtils:72 - Excel sheet Loaded
+21-03-2019 18:37:47 DEBUG CommonUtils:505 - Host data properties loaded successfully
+21-03-2019 18:37:47 DEBUG CommonUtils:460 - TESTCASE header name written to excel successfully
+21-03-2019 18:37:47 DEBUG CommonUtils:463 - Status code header written to excel successfully
+21-03-2019 18:37:47 DEBUG CommonUtils:467 - Request json header written to excel successfully
+21-03-2019 18:37:47 DEBUG CommonUtils:471 - Response json header written to excel successfully
+21-03-2019 18:37:47 DEBUG CommonUtils:333 - Analysis Headers written to excel successfully
+21-03-2019 18:37:47 DEBUG CommonUtils:477 - Loading test data
+21-03-2019 18:37:47 DEBUG CommonUtils:494 - Test data loaded successfully
+21-03-2019 18:37:47 DEBUG BuildRestRequestKonyImpl:34 - ++++++++++Started Testcase : isGiftCard++++++++++
+21-03-2019 18:37:47 INFO  RequestBuilderKonyImpl:82 - Building SOAP request
+21-03-2019 18:37:47 DEBUG RequestStringBuilderImpl:90 - Request SOAP Message:
+21-03-2019 18:37:47 DEBUG CommonUtils:366 - Request json written to excel successfully
+21-03-2019 18:37:47 DEBUG BuildRestRequestKonyImpl:45 - Executing test case : isGiftCard
+21-03-2019 18:37:49 DEBUG CommonUtils:357 - TESTCASE name written to excel successfully
+21-03-2019 18:37:49 DEBUG CommonUtils:361 - Status code written to excel successfully
+21-03-2019 18:37:49 DEBUG BuildRestRequestKonyImpl:52 - Successfully fired request
+21-03-2019 18:37:49 DEBUG CommonUtils:371 - Response json written to excel successfully
+21-03-2019 18:37:49 DEBUG AssertionBuilderImpl:24 - Starting assertions
+21-03-2019 18:37:49 INFO  AssertionBuilderImpl:51 - 2 assertions found
+21-03-2019 18:37:49 DEBUG AssertionBuilderImpl:35 - Assertions completed
+21-03-2019 18:37:49 DEBUG BuildRestRequestKonyImpl:63 - ++++++++++Testcase isGiftCard completed Successfully++++++++++
+21-03-2019 18:37:49 DEBUG CommonUtils:477 - Loading test data
+21-03-2019 18:37:49 DEBUG CommonUtils:494 - Test data loaded successfully
+21-03-2019 18:37:49 DEBUG BuildRestRequestKonyImpl:34 - ++++++++++Started Testcase : ++++++++++
+21-03-2019 18:37:49 DEBUG BuildRestRequestKonyImpl:42 - ++++++++++Testcases completed with errors.++++++++++
+21-03-2019 18:37:49 INFO  AtVeryNew:39 - Execution completed for the file  isGiftCard.xlsx
+21-03-2019 18:37:49 INFO  CommonUtils:416 - Started rewriting of file isGiftCard.xlsx
+21-03-2019 18:37:49 INFO  CommonUtils:420 - Finished rewriting of file isGiftCard.xlsx
+21-03-2019 18:37:49 INFO  AtVeryNew:30 - $$$$$$$$$Started processing of loadCancel.xlsx$$$$$$$$$
+21-03-2019 18:37:49 DEBUG CommonUtils:72 - Excel sheet Loaded
+21-03-2019 18:37:49 DEBUG CommonUtils:505 - Host data properties loaded successfully
+21-03-2019 18:37:49 DEBUG CommonUtils:460 - TESTCASE header name written to excel successfully
+21-03-2019 18:37:49 DEBUG CommonUtils:463 - Status code header written to excel successfully
+21-03-2019 18:37:49 DEBUG CommonUtils:467 - Request json header written to excel successfully
+21-03-2019 18:37:49 DEBUG CommonUtils:471 - Response json header written to excel successfully
+21-03-2019 18:37:49 DEBUG CommonUtils:333 - Analysis Headers written to excel successfully
+21-03-2019 18:37:49 DEBUG CommonUtils:477 - Loading test data
+21-03-2019 18:37:49 DEBUG CommonUtils:494 - Test data loaded successfully
+21-03-2019 18:37:49 DEBUG BuildRestRequestKonyImpl:34 - ++++++++++Started Testcase : loadCancel++++++++++
+21-03-2019 18:37:49 INFO  RequestBuilderKonyImpl:82 - Building SOAP request
+21-03-2019 18:37:49 DEBUG RequestStringBuilderImpl:90 - Request SOAP Message:
+21-03-2019 18:37:49 DEBUG CommonUtils:366 - Request json written to excel successfully
+21-03-2019 18:37:49 DEBUG BuildRestRequestKonyImpl:45 - Executing test case : loadCancel
+21-03-2019 18:37:50 DEBUG CommonUtils:357 - TESTCASE name written to excel successfully
+21-03-2019 18:37:50 DEBUG CommonUtils:361 - Status code written to excel successfully
+21-03-2019 18:37:50 DEBUG BuildRestRequestKonyImpl:52 - Successfully fired request
+21-03-2019 18:37:50 DEBUG CommonUtils:371 - Response json written to excel successfully
+21-03-2019 18:37:50 DEBUG AssertionBuilderImpl:24 - Starting assertions
+21-03-2019 18:37:50 INFO  AssertionBuilderImpl:51 - 2 assertions found
+21-03-2019 18:37:50 DEBUG AssertionBuilderImpl:35 - Assertions completed
+21-03-2019 18:37:50 DEBUG BuildRestRequestKonyImpl:63 - ++++++++++Testcase loadCancel completed Successfully++++++++++
+21-03-2019 18:37:50 DEBUG CommonUtils:477 - Loading test data
+21-03-2019 18:37:50 DEBUG CommonUtils:494 - Test data loaded successfully
+21-03-2019 18:37:50 DEBUG BuildRestRequestKonyImpl:34 - ++++++++++Started Testcase : ++++++++++
+21-03-2019 18:37:50 DEBUG BuildRestRequestKonyImpl:42 - ++++++++++Testcases completed with errors.++++++++++
+21-03-2019 18:37:50 INFO  AtVeryNew:39 - Execution completed for the file  loadCancel.xlsx
+21-03-2019 18:37:50 INFO  CommonUtils:416 - Started rewriting of file loadCancel.xlsx
+21-03-2019 18:37:50 INFO  CommonUtils:420 - Finished rewriting of file loadCancel.xlsx
+21-03-2019 18:37:50 INFO  AtVeryNew:30 - $$$$$$$$$Started processing of loadList.xlsx$$$$$$$$$
+21-03-2019 18:37:50 DEBUG CommonUtils:72 - Excel sheet Loaded
+21-03-2019 18:37:50 DEBUG CommonUtils:505 - Host data properties loaded successfully
+21-03-2019 18:37:50 DEBUG CommonUtils:460 - TESTCASE header name written to excel successfully
+21-03-2019 18:37:50 DEBUG CommonUtils:463 - Status code header written to excel successfully
+21-03-2019 18:37:50 DEBUG CommonUtils:467 - Request json header written to excel successfully
+21-03-2019 18:37:50 DEBUG CommonUtils:471 - Response json header written to excel successfully
+21-03-2019 18:37:50 DEBUG CommonUtils:333 - Analysis Headers written to excel successfully
+21-03-2019 18:37:50 DEBUG CommonUtils:477 - Loading test data
+21-03-2019 18:37:50 DEBUG CommonUtils:494 - Test data loaded successfully
+21-03-2019 18:37:50 DEBUG BuildRestRequestKonyImpl:34 - ++++++++++Started Testcase : loadList++++++++++
+21-03-2019 18:37:50 INFO  RequestBuilderKonyImpl:82 - Building SOAP request
+21-03-2019 18:37:50 DEBUG RequestStringBuilderImpl:90 - Request SOAP Message:
+21-03-2019 18:37:50 DEBUG CommonUtils:366 - Request json written to excel successfully
+21-03-2019 18:37:50 DEBUG BuildRestRequestKonyImpl:45 - Executing test case : loadList
+21-03-2019 18:37:51 DEBUG CommonUtils:357 - TESTCASE name written to excel successfully
+21-03-2019 18:37:51 DEBUG CommonUtils:361 - Status code written to excel successfully
+21-03-2019 18:37:51 DEBUG BuildRestRequestKonyImpl:52 - Successfully fired request
+21-03-2019 18:37:51 DEBUG CommonUtils:371 - Response json written to excel successfully
+21-03-2019 18:37:51 DEBUG AssertionBuilderImpl:24 - Starting assertions
+21-03-2019 18:37:51 INFO  AssertionBuilderImpl:51 - 2 assertions found
+21-03-2019 18:37:51 DEBUG AssertionBuilderImpl:35 - Assertions completed
+21-03-2019 18:37:51 DEBUG BuildRestRequestKonyImpl:63 - ++++++++++Testcase loadList completed Successfully++++++++++
+21-03-2019 18:37:51 DEBUG CommonUtils:477 - Loading test data
+21-03-2019 18:37:51 DEBUG CommonUtils:494 - Test data loaded successfully
+21-03-2019 18:37:51 DEBUG BuildRestRequestKonyImpl:34 - ++++++++++Started Testcase : ++++++++++
+21-03-2019 18:37:51 DEBUG BuildRestRequestKonyImpl:42 - ++++++++++Testcases completed with errors.++++++++++
+21-03-2019 18:37:51 INFO  AtVeryNew:39 - Execution completed for the file  loadList.xlsx
+21-03-2019 18:37:51 INFO  CommonUtils:416 - Started rewriting of file loadList.xlsx
+21-03-2019 18:37:51 INFO  CommonUtils:420 - Finished rewriting of file loadList.xlsx
+21-03-2019 18:37:51 INFO  AtVeryNew:30 - $$$$$$$$$Started processing of payInvoice.xlsx$$$$$$$$$
+21-03-2019 18:37:51 DEBUG CommonUtils:72 - Excel sheet Loaded
+21-03-2019 18:37:51 DEBUG CommonUtils:505 - Host data properties loaded successfully
+21-03-2019 18:37:51 DEBUG CommonUtils:460 - TESTCASE header name written to excel successfully
+21-03-2019 18:37:51 DEBUG CommonUtils:463 - Status code header written to excel successfully
+21-03-2019 18:37:51 DEBUG CommonUtils:467 - Request json header written to excel successfully
+21-03-2019 18:37:51 DEBUG CommonUtils:471 - Response json header written to excel successfully
+21-03-2019 18:37:51 DEBUG CommonUtils:333 - Analysis Headers written to excel successfully
+21-03-2019 18:37:51 DEBUG CommonUtils:477 - Loading test data
+21-03-2019 18:37:51 DEBUG CommonUtils:494 - Test data loaded successfully
+21-03-2019 18:37:51 DEBUG BuildRestRequestKonyImpl:34 - ++++++++++Started Testcase : payInvoice++++++++++
+21-03-2019 18:37:51 INFO  RequestBuilderKonyImpl:82 - Building SOAP request
+21-03-2019 18:37:51 DEBUG RequestStringBuilderImpl:90 - Request SOAP Message:
+21-03-2019 18:37:51 DEBUG CommonUtils:366 - Request json written to excel successfully
+21-03-2019 18:37:51 DEBUG BuildRestRequestKonyImpl:45 - Executing test case : payInvoice
+21-03-2019 18:37:53 DEBUG CommonUtils:357 - TESTCASE name written to excel successfully
+21-03-2019 18:37:53 DEBUG CommonUtils:361 - Status code written to excel successfully
+21-03-2019 18:37:53 DEBUG BuildRestRequestKonyImpl:52 - Successfully fired request
+21-03-2019 18:37:53 DEBUG CommonUtils:371 - Response json written to excel successfully
+21-03-2019 18:37:53 DEBUG AssertionBuilderImpl:24 - Starting assertions
+21-03-2019 18:37:53 INFO  AssertionBuilderImpl:51 - 2 assertions found
+21-03-2019 18:37:53 DEBUG AssertionBuilderImpl:35 - Assertions completed
+21-03-2019 18:37:53 DEBUG BuildRestRequestKonyImpl:63 - ++++++++++Testcase payInvoice completed Successfully++++++++++
+21-03-2019 18:37:53 DEBUG CommonUtils:477 - Loading test data
+21-03-2019 18:37:53 DEBUG CommonUtils:494 - Test data loaded successfully
+21-03-2019 18:37:53 DEBUG BuildRestRequestKonyImpl:34 - ++++++++++Started Testcase : ++++++++++
+21-03-2019 18:37:53 DEBUG BuildRestRequestKonyImpl:42 - ++++++++++Testcases completed with errors.++++++++++
+21-03-2019 18:37:53 INFO  AtVeryNew:39 - Execution completed for the file  payInvoice.xlsx
+21-03-2019 18:37:53 INFO  CommonUtils:416 - Started rewriting of file payInvoice.xlsx
+21-03-2019 18:37:53 INFO  CommonUtils:420 - Finished rewriting of file payInvoice.xlsx
+21-03-2019 18:37:53 INFO  AtVeryNew:30 - $$$$$$$$$Started processing of paymentList.xlsx$$$$$$$$$
+21-03-2019 18:37:53 DEBUG CommonUtils:72 - Excel sheet Loaded
+21-03-2019 18:37:53 DEBUG CommonUtils:505 - Host data properties loaded successfully
+21-03-2019 18:37:53 DEBUG CommonUtils:460 - TESTCASE header name written to excel successfully
+21-03-2019 18:37:53 DEBUG CommonUtils:463 - Status code header written to excel successfully
+21-03-2019 18:37:53 DEBUG CommonUtils:467 - Request json header written to excel successfully
+21-03-2019 18:37:53 DEBUG CommonUtils:471 - Response json header written to excel successfully
+21-03-2019 18:37:53 DEBUG CommonUtils:333 - Analysis Headers written to excel successfully
+21-03-2019 18:37:53 DEBUG CommonUtils:477 - Loading test data
+21-03-2019 18:37:53 DEBUG CommonUtils:494 - Test data loaded successfully
+21-03-2019 18:37:53 DEBUG BuildRestRequestKonyImpl:34 - ++++++++++Started Testcase : paymentList++++++++++
+21-03-2019 18:37:53 INFO  RequestBuilderKonyImpl:82 - Building SOAP request
+21-03-2019 18:37:53 DEBUG RequestStringBuilderImpl:90 - Request SOAP Message:
+21-03-2019 18:37:53 DEBUG CommonUtils:366 - Request json written to excel successfully
+21-03-2019 18:37:53 DEBUG BuildRestRequestKonyImpl:45 - Executing test case : paymentList
+21-03-2019 18:37:54 DEBUG CommonUtils:357 - TESTCASE name written to excel successfully
+21-03-2019 18:37:54 DEBUG CommonUtils:361 - Status code written to excel successfully
+21-03-2019 18:37:54 DEBUG BuildRestRequestKonyImpl:52 - Successfully fired request
+21-03-2019 18:37:54 DEBUG CommonUtils:371 - Response json written to excel successfully
+21-03-2019 18:37:54 DEBUG AssertionBuilderImpl:24 - Starting assertions
+21-03-2019 18:37:54 INFO  AssertionBuilderImpl:51 - 2 assertions found
+21-03-2019 18:37:54 DEBUG AssertionBuilderImpl:35 - Assertions completed
+21-03-2019 18:37:54 DEBUG BuildRestRequestKonyImpl:63 - ++++++++++Testcase paymentList completed Successfully++++++++++
+21-03-2019 18:37:54 DEBUG CommonUtils:477 - Loading test data
+21-03-2019 18:37:54 DEBUG CommonUtils:494 - Test data loaded successfully
+21-03-2019 18:37:54 DEBUG BuildRestRequestKonyImpl:34 - ++++++++++Started Testcase : ++++++++++
+21-03-2019 18:37:54 DEBUG BuildRestRequestKonyImpl:42 - ++++++++++Testcases completed with errors.++++++++++
+21-03-2019 18:37:54 INFO  AtVeryNew:39 - Execution completed for the file  paymentList.xlsx
+21-03-2019 18:37:54 INFO  CommonUtils:416 - Started rewriting of file paymentList.xlsx
+21-03-2019 18:37:54 INFO  CommonUtils:420 - Finished rewriting of file paymentList.xlsx
+21-03-2019 18:37:54 INFO  AtVeryNew:30 - $$$$$$$$$Started processing of payTotalDue.xlsx$$$$$$$$$
+21-03-2019 18:37:54 DEBUG CommonUtils:72 - Excel sheet Loaded
+21-03-2019 18:37:54 DEBUG CommonUtils:505 - Host data properties loaded successfully
+21-03-2019 18:37:54 DEBUG CommonUtils:460 - TESTCASE header name written to excel successfully
+21-03-2019 18:37:54 DEBUG CommonUtils:463 - Status code header written to excel successfully
+21-03-2019 18:37:54 DEBUG CommonUtils:467 - Request json header written to excel successfully
+21-03-2019 18:37:54 DEBUG CommonUtils:471 - Response json header written to excel successfully
+21-03-2019 18:37:54 DEBUG CommonUtils:333 - Analysis Headers written to excel successfully
+21-03-2019 18:37:54 DEBUG CommonUtils:477 - Loading test data
+21-03-2019 18:37:54 DEBUG CommonUtils:494 - Test data loaded successfully
+21-03-2019 18:37:54 DEBUG BuildRestRequestKonyImpl:34 - ++++++++++Started Testcase : payTotalDue++++++++++
+21-03-2019 18:37:54 INFO  RequestBuilderKonyImpl:82 - Building SOAP request
+21-03-2019 18:37:54 DEBUG RequestStringBuilderImpl:90 - Request SOAP Message:
+21-03-2019 18:37:54 DEBUG CommonUtils:366 - Request json written to excel successfully
+21-03-2019 18:37:54 DEBUG BuildRestRequestKonyImpl:45 - Executing test case : payTotalDue
+21-03-2019 18:37:55 DEBUG CommonUtils:357 - TESTCASE name written to excel successfully
+21-03-2019 18:37:55 DEBUG CommonUtils:361 - Status code written to excel successfully
+21-03-2019 18:37:55 DEBUG BuildRestRequestKonyImpl:52 - Successfully fired request
+21-03-2019 18:37:55 DEBUG CommonUtils:371 - Response json written to excel successfully
+21-03-2019 18:37:55 DEBUG AssertionBuilderImpl:24 - Starting assertions
+21-03-2019 18:37:55 INFO  AssertionBuilderImpl:51 - 2 assertions found
+21-03-2019 18:37:55 DEBUG AssertionBuilderImpl:35 - Assertions completed
+21-03-2019 18:37:55 DEBUG BuildRestRequestKonyImpl:63 - ++++++++++Testcase payTotalDue completed Successfully++++++++++
+21-03-2019 18:37:55 DEBUG CommonUtils:477 - Loading test data
+21-03-2019 18:37:55 DEBUG CommonUtils:494 - Test data loaded successfully
+21-03-2019 18:37:55 DEBUG BuildRestRequestKonyImpl:34 - ++++++++++Started Testcase : ++++++++++
+21-03-2019 18:37:55 DEBUG BuildRestRequestKonyImpl:42 - ++++++++++Testcases completed with errors.++++++++++
+21-03-2019 18:37:55 INFO  AtVeryNew:39 - Execution completed for the file  payTotalDue.xlsx
+21-03-2019 18:37:55 INFO  CommonUtils:416 - Started rewriting of file payTotalDue.xlsx
+21-03-2019 18:37:56 INFO  CommonUtils:420 - Finished rewriting of file payTotalDue.xlsx
+21-03-2019 18:37:56 INFO  AtVeryNew:30 - $$$$$$$$$Started processing of pinClear.xlsx$$$$$$$$$
+21-03-2019 18:37:56 DEBUG CommonUtils:72 - Excel sheet Loaded
+21-03-2019 18:37:56 DEBUG CommonUtils:505 - Host data properties loaded successfully
+21-03-2019 18:37:56 DEBUG CommonUtils:460 - TESTCASE header name written to excel successfully
+21-03-2019 18:37:56 DEBUG CommonUtils:463 - Status code header written to excel successfully
+21-03-2019 18:37:56 DEBUG CommonUtils:467 - Request json header written to excel successfully
+21-03-2019 18:37:56 DEBUG CommonUtils:471 - Response json header written to excel successfully
+21-03-2019 18:37:56 DEBUG CommonUtils:333 - Analysis Headers written to excel successfully
+21-03-2019 18:37:56 DEBUG CommonUtils:477 - Loading test data
+21-03-2019 18:37:56 DEBUG CommonUtils:494 - Test data loaded successfully
+21-03-2019 18:37:56 DEBUG BuildRestRequestKonyImpl:34 - ++++++++++Started Testcase : pinClear++++++++++
+21-03-2019 18:37:56 INFO  RequestBuilderKonyImpl:82 - Building SOAP request
+21-03-2019 18:37:56 DEBUG RequestStringBuilderImpl:90 - Request SOAP Message:
+21-03-2019 18:37:56 DEBUG CommonUtils:366 - Request json written to excel successfully
+21-03-2019 18:37:56 DEBUG BuildRestRequestKonyImpl:45 - Executing test case : pinClear
+21-03-2019 18:37:57 DEBUG CommonUtils:357 - TESTCASE name written to excel successfully
+21-03-2019 18:37:57 DEBUG CommonUtils:361 - Status code written to excel successfully
+21-03-2019 18:37:57 DEBUG BuildRestRequestKonyImpl:52 - Successfully fired request
+21-03-2019 18:37:57 DEBUG CommonUtils:371 - Response json written to excel successfully
+21-03-2019 18:37:57 DEBUG AssertionBuilderImpl:24 - Starting assertions
+21-03-2019 18:37:57 INFO  AssertionBuilderImpl:51 - 2 assertions found
+21-03-2019 18:37:57 DEBUG AssertionBuilderImpl:35 - Assertions completed
+21-03-2019 18:37:57 DEBUG BuildRestRequestKonyImpl:63 - ++++++++++Testcase pinClear completed Successfully++++++++++
+21-03-2019 18:37:57 DEBUG CommonUtils:477 - Loading test data
+21-03-2019 18:37:57 DEBUG CommonUtils:494 - Test data loaded successfully
+21-03-2019 18:37:57 DEBUG BuildRestRequestKonyImpl:34 - ++++++++++Started Testcase : ++++++++++
+21-03-2019 18:37:57 DEBUG BuildRestRequestKonyImpl:42 - ++++++++++Testcases completed with errors.++++++++++
+21-03-2019 18:37:57 INFO  AtVeryNew:39 - Execution completed for the file  pinClear.xlsx
+21-03-2019 18:37:57 INFO  CommonUtils:416 - Started rewriting of file pinClear.xlsx
+21-03-2019 18:37:57 INFO  CommonUtils:420 - Finished rewriting of file pinClear.xlsx
+21-03-2019 18:37:57 INFO  AtVeryNew:30 - $$$$$$$$$Started processing of productList.xlsx$$$$$$$$$
+21-03-2019 18:37:57 DEBUG CommonUtils:72 - Excel sheet Loaded
+21-03-2019 18:37:57 DEBUG CommonUtils:505 - Host data properties loaded successfully
+21-03-2019 18:37:57 DEBUG CommonUtils:460 - TESTCASE header name written to excel successfully
+21-03-2019 18:37:57 DEBUG CommonUtils:463 - Status code header written to excel successfully
+21-03-2019 18:37:57 DEBUG CommonUtils:467 - Request json header written to excel successfully
+21-03-2019 18:37:57 DEBUG CommonUtils:471 - Response json header written to excel successfully
+21-03-2019 18:37:57 DEBUG CommonUtils:333 - Analysis Headers written to excel successfully
+21-03-2019 18:37:57 DEBUG CommonUtils:477 - Loading test data
+21-03-2019 18:37:57 DEBUG CommonUtils:494 - Test data loaded successfully
+21-03-2019 18:37:57 DEBUG BuildRestRequestKonyImpl:34 - ++++++++++Started Testcase : productList++++++++++
+21-03-2019 18:37:57 INFO  RequestBuilderKonyImpl:82 - Building SOAP request
+21-03-2019 18:37:57 DEBUG RequestStringBuilderImpl:90 - Request SOAP Message:
+21-03-2019 18:37:57 DEBUG CommonUtils:366 - Request json written to excel successfully
+21-03-2019 18:37:57 DEBUG BuildRestRequestKonyImpl:45 - Executing test case : productList
+21-03-2019 18:37:58 DEBUG CommonUtils:357 - TESTCASE name written to excel successfully
+21-03-2019 18:37:58 DEBUG CommonUtils:361 - Status code written to excel successfully
+21-03-2019 18:37:58 DEBUG BuildRestRequestKonyImpl:52 - Successfully fired request
+21-03-2019 18:37:58 DEBUG CommonUtils:371 - Response json written to excel successfully
+21-03-2019 18:37:58 DEBUG AssertionBuilderImpl:24 - Starting assertions
+21-03-2019 18:37:58 INFO  AssertionBuilderImpl:51 - 2 assertions found
+21-03-2019 18:37:58 DEBUG AssertionBuilderImpl:35 - Assertions completed
+21-03-2019 18:37:58 DEBUG BuildRestRequestKonyImpl:63 - ++++++++++Testcase productList completed Successfully++++++++++
+21-03-2019 18:37:58 DEBUG CommonUtils:477 - Loading test data
+21-03-2019 18:37:58 DEBUG CommonUtils:494 - Test data loaded successfully
+21-03-2019 18:37:58 DEBUG BuildRestRequestKonyImpl:34 - ++++++++++Started Testcase : ++++++++++
+21-03-2019 18:37:58 DEBUG BuildRestRequestKonyImpl:42 - ++++++++++Testcases completed with errors.++++++++++
+21-03-2019 18:37:58 INFO  AtVeryNew:39 - Execution completed for the file  productList.xlsx
+21-03-2019 18:37:58 INFO  CommonUtils:416 - Started rewriting of file productList.xlsx
+21-03-2019 18:37:58 INFO  CommonUtils:420 - Finished rewriting of file productList.xlsx
+21-03-2019 18:37:58 INFO  AtVeryNew:52 - Taken taken to process : 37Seconds
+21-03-2019 18:38:02 INFO  AtVeryNew:58 - Successfully completed.
+21-03-2019 18:44:18 INFO  AtVeryNew:30 - $$$$$$$$$Started processing of amountToBeLeftUpdate.xlsx$$$$$$$$$
+21-03-2019 18:44:18 DEBUG CommonUtils:72 - Excel sheet Loaded
+21-03-2019 18:44:18 DEBUG CommonUtils:505 - Host data properties loaded successfully
+21-03-2019 18:44:18 DEBUG CommonUtils:460 - TESTCASE header name written to excel successfully
+21-03-2019 18:44:18 DEBUG CommonUtils:463 - Status code header written to excel successfully
+21-03-2019 18:44:18 DEBUG CommonUtils:467 - Request json header written to excel successfully
+21-03-2019 18:44:18 DEBUG CommonUtils:471 - Response json header written to excel successfully
+21-03-2019 18:44:18 DEBUG CommonUtils:333 - Analysis Headers written to excel successfully
+21-03-2019 18:44:18 DEBUG CommonUtils:477 - Loading test data
+21-03-2019 18:44:18 DEBUG CommonUtils:494 - Test data loaded successfully
+21-03-2019 18:44:18 DEBUG BuildRestRequestKonyImpl:34 - ++++++++++Started Testcase : amountToBeLeftUpdate++++++++++
+21-03-2019 18:44:19 INFO  RequestBuilderKonyImpl:82 - Building SOAP request
+21-03-2019 18:44:19 DEBUG RequestStringBuilderImpl:90 - Request SOAP Message:
+21-03-2019 18:44:19 DEBUG CommonUtils:366 - Request json written to excel successfully
+21-03-2019 18:44:19 DEBUG BuildRestRequestKonyImpl:45 - Executing test case : amountToBeLeftUpdate
+21-03-2019 18:44:21 DEBUG CommonUtils:357 - TESTCASE name written to excel successfully
+21-03-2019 18:44:21 DEBUG CommonUtils:361 - Status code written to excel successfully
+21-03-2019 18:44:21 DEBUG BuildRestRequestKonyImpl:52 - Successfully fired request
+21-03-2019 18:44:21 DEBUG CommonUtils:371 - Response json written to excel successfully
+21-03-2019 18:44:21 DEBUG AssertionBuilderImpl:24 - Starting assertions
+21-03-2019 18:44:21 INFO  AssertionBuilderImpl:51 - 2 assertions found
+21-03-2019 18:44:26 DEBUG AssertionBuilderImpl:35 - Assertions completed
+21-03-2019 18:44:26 DEBUG BuildRestRequestKonyImpl:63 - ++++++++++Testcase amountToBeLeftUpdate completed Successfully++++++++++
+21-03-2019 18:44:26 DEBUG CommonUtils:477 - Loading test data
+21-03-2019 18:44:26 DEBUG CommonUtils:494 - Test data loaded successfully
+21-03-2019 18:44:26 DEBUG BuildRestRequestKonyImpl:34 - ++++++++++Started Testcase : ++++++++++
+21-03-2019 18:44:26 DEBUG BuildRestRequestKonyImpl:42 - ++++++++++Testcases completed with errors.++++++++++
+21-03-2019 18:44:26 INFO  AtVeryNew:39 - Execution completed for the file  amountToBeLeftUpdate.xlsx
+21-03-2019 18:44:26 INFO  CommonUtils:416 - Started rewriting of file amountToBeLeftUpdate.xlsx
+21-03-2019 18:44:27 INFO  CommonUtils:420 - Finished rewriting of file amountToBeLeftUpdate.xlsx
+21-03-2019 18:44:27 INFO  AtVeryNew:52 - Taken taken to process : 8Seconds
+21-03-2019 18:44:28 INFO  AtVeryNew:58 - Successfully completed.
+21-03-2019 18:45:26 INFO  AtVeryNew:30 - $$$$$$$$$Started processing of amountToBeLeftUpdate.xlsx$$$$$$$$$
+21-03-2019 18:45:27 DEBUG CommonUtils:72 - Excel sheet Loaded
+21-03-2019 18:45:27 DEBUG CommonUtils:505 - Host data properties loaded successfully
+21-03-2019 18:45:27 DEBUG CommonUtils:460 - TESTCASE header name written to excel successfully
+21-03-2019 18:45:27 DEBUG CommonUtils:463 - Status code header written to excel successfully
+21-03-2019 18:45:27 DEBUG CommonUtils:467 - Request json header written to excel successfully
+21-03-2019 18:45:27 DEBUG CommonUtils:471 - Response json header written to excel successfully
+21-03-2019 18:45:27 DEBUG CommonUtils:333 - Analysis Headers written to excel successfully
+21-03-2019 18:45:27 DEBUG CommonUtils:477 - Loading test data
+21-03-2019 18:45:27 DEBUG CommonUtils:494 - Test data loaded successfully
+21-03-2019 18:45:27 DEBUG BuildRestRequestKonyImpl:34 - ++++++++++Started Testcase : amountToBeLeftUpdate++++++++++
+21-03-2019 18:45:27 INFO  RequestBuilderKonyImpl:82 - Building SOAP request
+21-03-2019 18:45:27 DEBUG RequestStringBuilderImpl:90 - Request SOAP Message:
+21-03-2019 18:45:27 DEBUG CommonUtils:366 - Request json written to excel successfully
+21-03-2019 18:45:27 DEBUG BuildRestRequestKonyImpl:45 - Executing test case : amountToBeLeftUpdate
+21-03-2019 18:45:29 DEBUG CommonUtils:357 - TESTCASE name written to excel successfully
+21-03-2019 18:45:29 DEBUG CommonUtils:361 - Status code written to excel successfully
+21-03-2019 18:45:29 DEBUG BuildRestRequestKonyImpl:52 - Successfully fired request
+21-03-2019 18:45:29 DEBUG CommonUtils:371 - Response json written to excel successfully
+21-03-2019 18:45:29 DEBUG AssertionBuilderImpl:24 - Starting assertions
+21-03-2019 18:45:29 INFO  AssertionBuilderImpl:51 - 2 assertions found
+21-03-2019 18:45:29 DEBUG AssertionBuilderImpl:35 - Assertions completed
+21-03-2019 18:45:29 DEBUG BuildRestRequestKonyImpl:63 - ++++++++++Testcase amountToBeLeftUpdate completed Successfully++++++++++
+21-03-2019 18:45:29 DEBUG CommonUtils:477 - Loading test data
+21-03-2019 18:45:29 DEBUG CommonUtils:494 - Test data loaded successfully
+21-03-2019 18:45:29 DEBUG BuildRestRequestKonyImpl:34 - ++++++++++Started Testcase : ++++++++++
+21-03-2019 18:45:29 DEBUG BuildRestRequestKonyImpl:42 - ++++++++++Testcases completed with errors.++++++++++
+21-03-2019 18:45:29 INFO  AtVeryNew:39 - Execution completed for the file  amountToBeLeftUpdate.xlsx
+21-03-2019 18:45:29 INFO  CommonUtils:416 - Started rewriting of file amountToBeLeftUpdate.xlsx
+21-03-2019 18:45:29 INFO  CommonUtils:420 - Finished rewriting of file amountToBeLeftUpdate.xlsx
+21-03-2019 18:45:29 INFO  AtVeryNew:52 - Taken taken to process : 2Seconds
+21-03-2019 18:45:30 INFO  AtVeryNew:58 - Successfully completed.
+21-03-2019 18:47:03 INFO  AtVeryNew:30 - $$$$$$$$$Started processing of amountToBeLeftUpdate.xlsx$$$$$$$$$
+21-03-2019 18:47:04 DEBUG CommonUtils:72 - Excel sheet Loaded
+21-03-2019 18:47:04 DEBUG CommonUtils:505 - Host data properties loaded successfully
+21-03-2019 18:47:04 DEBUG CommonUtils:460 - TESTCASE header name written to excel successfully
+21-03-2019 18:47:04 DEBUG CommonUtils:463 - Status code header written to excel successfully
+21-03-2019 18:47:04 DEBUG CommonUtils:467 - Request json header written to excel successfully
+21-03-2019 18:47:04 DEBUG CommonUtils:471 - Response json header written to excel successfully
+21-03-2019 18:47:04 DEBUG CommonUtils:333 - Analysis Headers written to excel successfully
+21-03-2019 18:47:04 DEBUG CommonUtils:477 - Loading test data
+21-03-2019 18:47:04 DEBUG CommonUtils:494 - Test data loaded successfully
+21-03-2019 18:47:04 DEBUG BuildRestRequestKonyImpl:34 - ++++++++++Started Testcase : amountToBeLeftUpdate++++++++++
+21-03-2019 18:47:04 INFO  RequestBuilderKonyImpl:82 - Building SOAP request
+21-03-2019 18:47:04 DEBUG RequestStringBuilderImpl:90 - Request SOAP Message:
+21-03-2019 18:47:04 DEBUG CommonUtils:366 - Request json written to excel successfully
+21-03-2019 18:47:04 DEBUG BuildRestRequestKonyImpl:45 - Executing test case : amountToBeLeftUpdate
+21-03-2019 18:47:06 DEBUG CommonUtils:357 - TESTCASE name written to excel successfully
+21-03-2019 18:47:06 DEBUG CommonUtils:361 - Status code written to excel successfully
+21-03-2019 18:47:06 DEBUG BuildRestRequestKonyImpl:52 - Successfully fired request
+21-03-2019 18:47:06 DEBUG CommonUtils:371 - Response json written to excel successfully
+21-03-2019 18:47:06 DEBUG AssertionBuilderImpl:24 - Starting assertions
+21-03-2019 18:47:06 INFO  AssertionBuilderImpl:51 - 2 assertions found
+21-03-2019 18:49:14 INFO  AtVeryNew:30 - $$$$$$$$$Started processing of amountToBeLeftUpdate.xlsx$$$$$$$$$
+21-03-2019 18:49:15 DEBUG CommonUtils:72 - Excel sheet Loaded
+21-03-2019 18:49:15 DEBUG CommonUtils:505 - Host data properties loaded successfully
+21-03-2019 18:49:15 DEBUG CommonUtils:460 - TESTCASE header name written to excel successfully
+21-03-2019 18:49:15 DEBUG CommonUtils:463 - Status code header written to excel successfully
+21-03-2019 18:49:15 DEBUG CommonUtils:467 - Request json header written to excel successfully
+21-03-2019 18:49:15 DEBUG CommonUtils:471 - Response json header written to excel successfully
+21-03-2019 18:49:15 DEBUG CommonUtils:333 - Analysis Headers written to excel successfully
+21-03-2019 18:49:15 DEBUG CommonUtils:477 - Loading test data
+21-03-2019 18:49:15 DEBUG CommonUtils:494 - Test data loaded successfully
+21-03-2019 18:49:15 DEBUG BuildRestRequestKonyImpl:34 - ++++++++++Started Testcase : amountToBeLeftUpdate++++++++++
+21-03-2019 18:49:15 INFO  RequestBuilderKonyImpl:82 - Building SOAP request
+21-03-2019 18:49:15 DEBUG RequestStringBuilderImpl:90 - Request SOAP Message:
+21-03-2019 18:49:15 DEBUG CommonUtils:366 - Request json written to excel successfully
+21-03-2019 18:49:15 DEBUG BuildRestRequestKonyImpl:45 - Executing test case : amountToBeLeftUpdate
+21-03-2019 18:49:17 DEBUG CommonUtils:357 - TESTCASE name written to excel successfully
+21-03-2019 18:49:17 DEBUG CommonUtils:361 - Status code written to excel successfully
+21-03-2019 18:49:17 DEBUG BuildRestRequestKonyImpl:52 - Successfully fired request
+21-03-2019 18:49:17 DEBUG CommonUtils:371 - Response json written to excel successfully
+21-03-2019 18:49:17 DEBUG AssertionBuilderImpl:24 - Starting assertions
+21-03-2019 18:49:17 INFO  AssertionBuilderImpl:51 - 2 assertions found
+21-03-2019 18:49:30 DEBUG AssertionBuilderImpl:35 - Assertions completed
+21-03-2019 18:49:30 DEBUG BuildRestRequestKonyImpl:63 - ++++++++++Testcase amountToBeLeftUpdate completed Successfully++++++++++
+21-03-2019 18:49:30 DEBUG CommonUtils:477 - Loading test data
+21-03-2019 18:49:30 DEBUG CommonUtils:494 - Test data loaded successfully
+21-03-2019 18:49:30 DEBUG BuildRestRequestKonyImpl:34 - ++++++++++Started Testcase : ++++++++++
+21-03-2019 18:49:31 DEBUG BuildRestRequestKonyImpl:42 - ++++++++++Testcases completed with errors.++++++++++
+21-03-2019 18:49:31 INFO  AtVeryNew:39 - Execution completed for the file  amountToBeLeftUpdate.xlsx
+21-03-2019 18:49:31 INFO  CommonUtils:416 - Started rewriting of file amountToBeLeftUpdate.xlsx
+21-03-2019 18:49:31 INFO  CommonUtils:420 - Finished rewriting of file amountToBeLeftUpdate.xlsx
+21-03-2019 18:49:31 INFO  AtVeryNew:52 - Taken taken to process : 16Seconds
+21-03-2019 18:49:32 INFO  AtVeryNew:58 - Successfully completed.
+21-03-2019 18:51:17 INFO  AtVeryNew:30 - $$$$$$$$$Started processing of amountToBeLeftUpdate.xlsx$$$$$$$$$
+21-03-2019 18:51:17 DEBUG CommonUtils:72 - Excel sheet Loaded
+21-03-2019 18:51:17 DEBUG CommonUtils:505 - Host data properties loaded successfully
+21-03-2019 18:51:17 DEBUG CommonUtils:460 - TESTCASE header name written to excel successfully
+21-03-2019 18:51:17 DEBUG CommonUtils:463 - Status code header written to excel successfully
+21-03-2019 18:51:17 DEBUG CommonUtils:467 - Request json header written to excel successfully
+21-03-2019 18:51:17 DEBUG CommonUtils:471 - Response json header written to excel successfully
+21-03-2019 18:51:17 DEBUG CommonUtils:333 - Analysis Headers written to excel successfully
+21-03-2019 18:51:17 DEBUG CommonUtils:477 - Loading test data
+21-03-2019 18:51:17 DEBUG CommonUtils:494 - Test data loaded successfully
+21-03-2019 18:51:17 DEBUG BuildRestRequestKonyImpl:34 - ++++++++++Started Testcase : amountToBeLeftUpdate++++++++++
+21-03-2019 18:51:17 INFO  RequestBuilderKonyImpl:82 - Building SOAP request
+21-03-2019 18:51:18 DEBUG RequestStringBuilderImpl:90 - Request SOAP Message:
+21-03-2019 18:51:18 DEBUG CommonUtils:366 - Request json written to excel successfully
+21-03-2019 18:51:18 DEBUG BuildRestRequestKonyImpl:45 - Executing test case : amountToBeLeftUpdate
+21-03-2019 18:51:20 DEBUG CommonUtils:357 - TESTCASE name written to excel successfully
+21-03-2019 18:51:20 DEBUG CommonUtils:361 - Status code written to excel successfully
+21-03-2019 18:51:20 DEBUG BuildRestRequestKonyImpl:52 - Successfully fired request
+21-03-2019 18:51:20 DEBUG CommonUtils:371 - Response json written to excel successfully
+21-03-2019 18:51:20 DEBUG AssertionBuilderImpl:24 - Starting assertions
+21-03-2019 18:51:20 INFO  AssertionBuilderImpl:51 - 2 assertions found
+21-03-2019 18:51:20 DEBUG AssertionBuilderImpl:35 - Assertions completed
+21-03-2019 18:51:20 DEBUG BuildRestRequestKonyImpl:63 - ++++++++++Testcase amountToBeLeftUpdate completed Successfully++++++++++
+21-03-2019 18:51:20 DEBUG CommonUtils:477 - Loading test data
+21-03-2019 18:51:20 DEBUG CommonUtils:494 - Test data loaded successfully
+21-03-2019 18:51:20 DEBUG BuildRestRequestKonyImpl:34 - ++++++++++Started Testcase : ++++++++++
+21-03-2019 18:51:20 DEBUG BuildRestRequestKonyImpl:42 - ++++++++++Testcases completed with errors.++++++++++
+21-03-2019 18:51:20 INFO  AtVeryNew:39 - Execution completed for the file  amountToBeLeftUpdate.xlsx
+21-03-2019 18:51:20 INFO  CommonUtils:416 - Started rewriting of file amountToBeLeftUpdate.xlsx
+21-03-2019 18:51:20 INFO  CommonUtils:420 - Finished rewriting of file amountToBeLeftUpdate.xlsx
+21-03-2019 18:51:20 INFO  AtVeryNew:52 - Taken taken to process : 3Seconds
+21-03-2019 18:51:21 INFO  AtVeryNew:58 - Successfully completed.
+21-03-2019 18:52:08 INFO  AtVeryNew:30 - $$$$$$$$$Started processing of amountToBeLeftUpdate.xlsx$$$$$$$$$
+21-03-2019 18:52:08 DEBUG CommonUtils:72 - Excel sheet Loaded
+21-03-2019 18:52:08 DEBUG CommonUtils:505 - Host data properties loaded successfully
+21-03-2019 18:52:08 DEBUG CommonUtils:460 - TESTCASE header name written to excel successfully
+21-03-2019 18:52:08 DEBUG CommonUtils:463 - Status code header written to excel successfully
+21-03-2019 18:52:08 DEBUG CommonUtils:467 - Request json header written to excel successfully
+21-03-2019 18:52:08 DEBUG CommonUtils:471 - Response json header written to excel successfully
+21-03-2019 18:52:08 DEBUG CommonUtils:333 - Analysis Headers written to excel successfully
+21-03-2019 18:52:08 DEBUG CommonUtils:477 - Loading test data
+21-03-2019 18:52:08 DEBUG CommonUtils:494 - Test data loaded successfully
+21-03-2019 18:52:08 DEBUG BuildRestRequestKonyImpl:34 - ++++++++++Started Testcase : amountToBeLeftUpdate++++++++++
+21-03-2019 18:52:08 INFO  RequestBuilderKonyImpl:82 - Building SOAP request
+21-03-2019 18:52:09 DEBUG RequestStringBuilderImpl:90 - Request SOAP Message:
+21-03-2019 18:52:09 DEBUG CommonUtils:366 - Request json written to excel successfully
+21-03-2019 18:52:09 DEBUG BuildRestRequestKonyImpl:45 - Executing test case : amountToBeLeftUpdate
+21-03-2019 18:52:11 DEBUG CommonUtils:357 - TESTCASE name written to excel successfully
+21-03-2019 18:52:11 DEBUG CommonUtils:361 - Status code written to excel successfully
+21-03-2019 18:52:11 DEBUG BuildRestRequestKonyImpl:52 - Successfully fired request
+21-03-2019 18:52:11 DEBUG CommonUtils:371 - Response json written to excel successfully
+21-03-2019 18:52:11 DEBUG AssertionBuilderImpl:24 - Starting assertions
+21-03-2019 18:52:11 INFO  AssertionBuilderImpl:51 - 2 assertions found
+21-03-2019 18:55:12 DEBUG AssertionBuilderImpl:35 - Assertions completed
+21-03-2019 18:55:12 DEBUG BuildRestRequestKonyImpl:63 - ++++++++++Testcase amountToBeLeftUpdate completed Successfully++++++++++
+21-03-2019 18:55:12 DEBUG CommonUtils:477 - Loading test data
+21-03-2019 18:55:12 DEBUG CommonUtils:494 - Test data loaded successfully
+21-03-2019 18:55:12 DEBUG BuildRestRequestKonyImpl:34 - ++++++++++Started Testcase : ++++++++++
+21-03-2019 18:55:12 DEBUG BuildRestRequestKonyImpl:42 - ++++++++++Testcases completed with errors.++++++++++
+21-03-2019 18:55:12 INFO  AtVeryNew:39 - Execution completed for the file  amountToBeLeftUpdate.xlsx
+21-03-2019 18:55:12 INFO  CommonUtils:416 - Started rewriting of file amountToBeLeftUpdate.xlsx
+21-03-2019 18:55:12 INFO  CommonUtils:420 - Finished rewriting of file amountToBeLeftUpdate.xlsx
+21-03-2019 18:55:12 INFO  AtVeryNew:52 - Taken taken to process : 184Seconds
